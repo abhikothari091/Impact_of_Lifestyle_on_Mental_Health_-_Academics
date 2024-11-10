@@ -1,0 +1,15 @@
+1.	Which student majors report the highest levels of depression?
+2.	Which stress-relief activities are associated with the lowest levels of depression among students?
+3.	What is the nature of social relationships for students experiencing anxiety and depression?
+4.	Which university has the highest average student satisfaction levels?
+5.	What is the impact of sleep on students' academic performance and mental well-being?
+6.	How do academic workload and pressure influence students' sleep patterns?
+7.	How do future insecurities of final-year students compare to those of first-year students?
+8.	What is the effect of campus discrimination on students' academic performance and mental well-being?
+9.	How do financial concerns impact students' mental well-being and sleep quality?
+10.	What is the effect of sports participation on students' mental well-being and sleep quality?
+11.	Find the students with the highest GPA from each major and compare their mental health details with the average mental health metrics for each major
+12.	Calculate the average academic workload and pressure for each Graduate Major
+13.	Assess the average levels of future insecurity and financial concerns among final-year data science major
+14.	Compare sleep quality between final-year undergraduate and graduate students, examining potential differences or similarities.
+15.	Analyse isolation levels and social relationship quality across gender to identify any significant trends or disparities.
