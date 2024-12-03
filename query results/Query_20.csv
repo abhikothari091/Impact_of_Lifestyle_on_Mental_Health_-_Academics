@@ -1,0 +1,5 @@
+degree_major,AVG(l.study_satisfaction)
+"Computer Science",3.96893203883495
+"Data Science",3.9971671388102
+"Information Technology",3.94252873563218
+"Software Engineering",3.88888888888889

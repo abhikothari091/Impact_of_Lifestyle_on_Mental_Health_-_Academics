@@ -1,0 +1,1001 @@
+,gender,age,university,degree_level,degree_major,academic_year,cgpa,residential_status,campus_discrimination,sports_engagement,average_sleep,study_satisfaction,academic_workload,academic_pressure,financial_concerns,social_relationships,depression,anxiety,isolation,future_insecurity,stress_relief_activities
+0,Male,19,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,0,6,5,5,5,3,2,4,4,3,3,Online Entertainment
+1,Male,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,6,6,5,4,1,4,2,3,4,2,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+2,Male,19,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,Yes,0,8,5,5,3,5,2,5,2,1,5,"Religious Activities, Social Connections, Sleep"
+3,Male,18,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,3,4,4,5,1,3,5,5,2,Religious Activities
+4,Male,21,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,7,8,5,4,5,2,3,4,2,5,5,"Online Entertainment, Sleep"
+5,Male,21,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,3,5,5,5,3,1,1,3,2,"Religious Activities, Sports and Fitness, Sleep"
+6,Male,20,PU,Undergraduate,Data Science,2nd year,2.25,Off-Campus,No,3,6,5,3,5,4,4,4,5,4,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+7,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,8,4,5,3,5,1,5,4,5,4,"Online Entertainment, Sleep"
+8,Male,20,UET,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,3,6,3,4,3,5,4,5,3,5,2,"Religious Activities, Social Connections, Online Entertainment"
+9,Female,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,5,4,5,1,1,5,5,5,3,"Religious Activities, Social Connections, Online Entertainment"
+10,Male,19,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,5,4,2,4,3,1,5,4,3,Sleep
+11,Male,20,PU,Undergraduate,Computer Science,3rd year,1.75,Off-Campus,Yes,0,6,3,2,3,5,4,4,2,3,5,Sports and Fitness
+12,Female,20,PU,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,7,6,1,4,4,1,3,5,2,5,2,Sleep
+13,Female,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,3,4,5,5,3,4,1,2,"Religious Activities, Sports and Fitness"
+14,Male,19,PU,Undergraduate,Information Technology,4th year,3.25,Off-Campus,No,0,8,5,4,5,3,4,2,2,1,2,"Religious Activities, Sports and Fitness, Sleep"
+15,Male,22,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,6,4,4,5,5,3,1,4,2,2,Nothing
+16,Male,20,UET,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,4,4,4,4,4,2,4,3,3,3,Religious Activities
+17,Male,19,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,0,8,4,4,5,4,3,1,3,5,3,Religious Activities
+18,Male,21,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,8,2,4,3,5,3,4,3,4,1,Religious Activities
+19,Female,21,UET,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,3,5,5,5,3,4,2,2,"Religious Activities, Social Connections, Online Entertainment"
+20,Male,21,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,8,5,4,4,3,2,2,5,3,1,"Social Connections, Sleep"
+21,Male,18,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,4,4,3,5,1,5,4,3,3,Religious Activities
+22,Male,20,UOL,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,6,4,4,2,1,4,2,2,4,5,4,Creative Outlets
+23,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,3,6,3,4,5,1,3,5,4,2,5,"Religious Activities, Online Entertainment"
+24,Male,20,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,8,4,4,4,5,5,3,4,5,4,Sleep
+25,Male,20,UOL,Undergraduate,Computer Science,1st year,2.25,Off-Campus,Yes,3,8,4,3,4,5,3,4,2,2,4,Sleep
+26,Male,20,UET,Undergraduate,Data Science,1st year,2.75,Off-Campus,Yes,0,6,2,3,2,1,4,4,1,5,3,Online Entertainment
+27,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,8,5,5,5,5,4,5,2,2,2,"Religious Activities, Social Connections, Online Entertainment"
+28,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,6,4,5,4,5,2,1,4,4,5,"Religious Activities, Online Entertainment"
+29,Male,17,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,Yes,3,6,5,5,3,1,1,3,4,5,5,Religious Activities
+30,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,3,6,5,4,4,5,3,4,5,4,1,Creative Outlets
+31,Female,20,UET,Undergraduate,Software Engineering,2nd year,2.25,On-Campus,Yes,0,4,5,4,5,5,3,3,2,5,5,"Religious Activities, Sports and Fitness"
+32,Male,19,PU,Undergraduate,Information Technology,1st year,2.25,Off-Campus,No,3,4,5,5,3,5,1,4,3,4,4,"Religious Activities, Social Connections, Sleep"
+33,Male,20,FAST,Undergraduate,Data Science,4th year,3.25,On-Campus,No,0,4,5,3,3,4,4,2,1,5,4,Online Entertainment
+34,Male,17,PU,Undergraduate,Data Science,4th year,3.25,On-Campus,No,6,8,5,5,5,1,3,3,3,2,3,Sleep
+35,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,4,5,4,4,4,1,3,4,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+36,Male,20,COMSATS,Postgraduate,Computer Science,1st year,2.25,Off-Campus,No,3,6,5,4,3,3,1,4,4,3,2,Online Entertainment
+37,Male,22,KUST,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,No,0,6,1,4,4,3,2,3,3,4,1,Online Entertainment
+38,Male,20,UET,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,6,6,3,4,4,5,3,4,4,4,2,Sleep
+39,Male,22,UET,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,5,5,5,3,1,3,3,4,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+40,Male,22,UMT,Undergraduate,Information Technology,3rd year,3.75,On-Campus,No,3,8,4,5,2,4,5,1,3,5,3,"Religious Activities, Social Connections, Online Entertainment"
+41,Male,20,PU,Undergraduate,Data Science,3rd year,2.25,On-Campus,No,3,8,5,4,5,2,1,3,2,5,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+42,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,6,8,3,5,4,5,2,1,4,5,3,"Religious Activities, Creative Outlets"
+43,Male,21,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,Yes,0,8,4,5,5,3,1,4,5,3,5,"Religious Activities, Social Connections"
+44,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,7,6,5,4,4,3,3,3,2,1,5,Sports and Fitness
+45,Male,19,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,0,6,5,2,4,1,4,1,3,3,2,"Creative Outlets, Social Connections, Online Entertainment"
+46,Male,19,COMSATS,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,3,4,5,1,2,2,4,2,1,Religious Activities
+47,Female,23,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,Yes,0,6,2,4,1,5,4,5,5,1,1,"Religious Activities, Social Connections"
+48,Female,21,UET,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,6,6,4,5,5,3,3,3,1,1,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+49,Male,19,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,4,3,4,3,3,4,2,1,5,5,Online Entertainment
+50,Male,20,COMSATS,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,7,6,5,5,5,5,3,5,3,5,3,Online Entertainment
+51,Male,17,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,8,5,4,3,3,1,3,1,4,1,Outdoor Activities
+52,Male,20,COMSATS,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,6,8,3,5,5,3,2,2,3,1,2,Sleep
+53,Male,19,UET,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,4,3,5,1,4,4,4,3,3,Outdoor Activities
+54,Male,20,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,3,6,3,4,4,5,4,2,4,3,5,Sports and Fitness
+55,Male,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,Yes,7,6,5,3,5,3,1,4,5,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+56,Male,20,NUST,Undergraduate,Data Science,1st year,2.75,On-Campus,No,0,8,5,4,4,2,1,4,4,4,5,"Religious Activities, Online Entertainment"
+57,Male,21,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,6,5,5,5,3,4,2,3,3,5,Religious Activities
+58,Male,19,KUST,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,4,5,5,3,4,3,4,2,5,Sports and Fitness
+59,Male,22,COMSATS,Undergraduate,Computer Science,4th year,2.25,Off-Campus,No,0,6,5,4,5,3,1,5,3,3,5,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+60,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,5,5,2,3,5,4,4,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+61,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,4,3,1,2,3,5,2,3,1,Online Entertainment
+62,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,5,4,3,5,5,2,4,1,5,Outdoor Activities
+63,Male,19,PU,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,No,7,8,5,2,4,3,4,2,2,3,2,Sports and Fitness
+64,Male,21,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,6,4,5,4,1,1,2,2,3,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+65,Male,19,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,1,4,5,5,2,2,1,3,3,"Religious Activities, Online Entertainment"
+66,Male,20,PU,Undergraduate,Computer Science,4th year,2.75,On-Campus,No,3,6,5,4,4,2,1,3,1,1,3,"Religious Activities, Sports and Fitness, Outdoor Activities"
+67,Male,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,Yes,0,8,5,3,4,4,3,1,4,5,4,Religious Activities
+68,Male,22,UET,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,4,5,3,3,3,5,4,1,1,"Religious Activities, Social Connections, Online Entertainment"
+69,Male,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,Yes,7,8,4,5,3,5,4,4,3,1,5,"Religious Activities, Social Connections, Online Entertainment"
+70,Male,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,0,6,3,2,3,5,5,3,5,5,4,Online Entertainment
+71,Male,20,PU,Undergraduate,Information Technology,2nd year,2.75,Off-Campus,No,3,6,4,3,4,3,3,5,4,3,4,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+72,Male,20,FAST,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,3,4,3,3,3,4,3,3,2,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+73,Male,19,PU,Undergraduate,Data Science,1st year,0.0,Off-Campus,No,3,4,4,3,5,5,2,4,3,1,2,Religious Activities
+74,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,3,4,4,3,3,5,4,5,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+75,Male,19,UMT,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,7,6,5,4,4,5,2,4,2,2,1,Religious Activities
+76,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,4,3,5,5,3,5,4,4,1,Sleep
+77,Male,19,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,7,8,4,5,2,4,1,3,3,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+78,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,4,5,4,1,3,3,4,3,4,"Social Connections, Sleep"
+79,Male,19,UET,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,5,1,5,4,4,3,3,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+80,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,8,3,4,2,1,5,3,4,5,5,"Religious Activities, Social Connections, Online Entertainment"
+81,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,3,6,3,4,5,3,3,1,5,2,2,Sports and Fitness
+82,Female,19,PU,Undergraduate,Software Engineering,1st year,3.75,Off-Campus,No,0,6,4,4,4,3,4,3,1,1,5,Outdoor Activities
+83,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,4,4,5,3,2,4,3,4,2,1,"Religious Activities, Sports and Fitness"
+84,Male,22,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,3,6,5,4,3,5,2,5,2,5,4,"Religious Activities, Social Connections, Online Entertainment"
+85,Male,20,UET,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,5,4,5,5,5,4,4,4,5,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+86,Female,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,7,8,5,3,4,5,3,3,2,2,4,Creative Outlets
+87,Male,21,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,0,6,5,5,2,1,2,4,4,4,1,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+88,Male,19,FAST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,8,5,4,5,3,2,5,2,4,1,Sleep
+89,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,4,5,3,4,1,2,3,3,5,"Religious Activities, Sports and Fitness"
+90,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,3,8,5,5,5,5,1,2,1,5,3,"Religious Activities, Creative Outlets"
+91,Male,18,UET,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,3,6,5,3,4,4,2,4,4,3,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+92,Male,20,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,Yes,3,6,4,4,1,4,4,3,5,5,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+93,Female,21,PU,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,7,4,5,5,5,3,4,3,1,1,5,"Social Connections, Online Entertainment"
+94,Male,21,COMSATS,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,2,3,3,4,1,3,2,1,1,Nothing
+95,Male,18,NUST,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,7,6,4,4,5,5,4,2,3,5,4,Online Entertainment
+96,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,2,5,3,4,2,5,3,1,Outdoor Activities
+97,Male,20,PU,Undergraduate,Data Science,1st year,3.75,On-Campus,No,0,6,4,2,5,5,4,2,3,1,1,"Religious Activities, Sports and Fitness, Outdoor Activities"
+98,Male,21,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,3,5,2,4,4,1,2,5,1,Outdoor Activities
+99,Male,19,UET,Undergraduate,Software Engineering,2nd year,2.75,Off-Campus,Yes,6,8,4,5,3,1,3,2,3,3,1,Religious Activities
+100,Male,22,NUST,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,7,8,5,5,4,4,4,4,3,3,1,Sleep
+101,Male,22,UET,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,8,4,4,5,1,1,4,5,5,1,"Religious Activities, Online Entertainment, Outdoor Activities"
+102,Male,20,PU,Undergraduate,Information Technology,1st year,2.75,Off-Campus,Yes,3,6,4,3,4,2,4,3,3,4,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+103,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,6,6,5,3,5,5,3,2,2,4,4,"Online Entertainment, Sleep"
+104,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,0,8,4,3,4,3,1,5,5,1,2,"Religious Activities, Outdoor Activities"
+105,Male,22,UET,Undergraduate,Data Science,3rd year,2.75,Off-Campus,Yes,3,6,1,4,5,5,1,4,3,1,2,"Creative Outlets, Social Connections, Online Entertainment"
+106,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,0,8,5,5,4,1,3,5,2,3,3,"Religious Activities, Sports and Fitness"
+107,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,7,8,2,4,5,5,2,5,4,1,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+108,Male,21,COMSATS,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,5,3,1,5,4,2,5,2,5,"Religious Activities, Social Connections"
+109,Male,19,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,3,8,3,2,4,3,4,4,4,4,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+110,Male,18,UMT,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,4,2,4,3,2,3,3,1,1,3,Sports and Fitness
+111,Female,19,PU,Undergraduate,Information Technology,1st year,3.75,On-Campus,Yes,0,8,2,4,3,5,4,4,5,1,2,"Religious Activities, Sports and Fitness, Social Connections"
+112,Male,21,COMSATS,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,3,4,4,3,3,2,2,2,3,"Religious Activities, Social Connections"
+113,Female,20,FAST,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,6,4,4,4,3,3,1,4,5,2,Outdoor Activities
+114,Male,22,UMT,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,5,5,3,1,4,4,1,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+115,Female,20,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,6,8,5,2,4,4,3,4,4,1,3,Sports and Fitness
+116,Female,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,Yes,0,8,5,5,4,4,3,2,3,3,1,Religious Activities
+117,Male,20,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,0,4,3,5,2,4,3,3,4,3,5,"Religious Activities, Social Connections"
+118,Male,20,PU,Undergraduate,Information Technology,2nd year,3.75,Off-Campus,Yes,0,8,4,2,5,4,4,5,3,3,1,Religious Activities
+119,Male,19,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,6,6,5,4,5,5,1,4,3,4,4,"Religious Activities, Sports and Fitness, Outdoor Activities"
+120,Male,20,UET,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,3,8,4,4,4,4,1,3,3,5,2,Sports and Fitness
+121,Male,18,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,8,4,4,4,5,2,3,2,4,2,"Religious Activities, Sports and Fitness, Sleep"
+122,Male,17,UET,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,3,8,5,4,5,4,4,4,3,3,2,"Religious Activities, Online Entertainment, Outdoor Activities"
+123,Male,20,COMSATS,Undergraduate,Data Science,1st year,2.25,Off-Campus,No,3,6,4,4,3,5,3,3,4,4,4,Outdoor Activities
+124,Female,19,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,5,3,4,2,2,3,4,3,3,Sleep
+125,Female,20,FAST,Undergraduate,Information Technology,4th year,0.0,Off-Campus,No,3,8,4,3,3,2,4,5,2,4,4,"Religious Activities, Sleep"
+126,Male,19,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,6,6,5,5,3,5,4,2,2,3,4,Religious Activities
+127,Male,21,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,7,6,5,4,5,3,1,2,5,2,5,"Religious Activities, Sports and Fitness, Sleep"
+128,Male,19,PU,Undergraduate,Information Technology,4th year,3.75,Off-Campus,Yes,3,8,4,5,4,4,4,5,2,5,2,"Religious Activities, Online Entertainment, Outdoor Activities"
+129,Female,21,UET,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,6,4,5,3,1,1,3,4,1,3,"Religious Activities, Social Connections, Online Entertainment"
+130,Female,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,3,6,4,5,4,1,3,4,4,4,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+131,Male,26,FAST,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,4,5,5,1,1,3,3,1,1,Religious Activities
+132,Male,17,COMSATS,Undergraduate,Software Engineering,4th year,3.25,Off-Campus,No,0,6,5,3,4,2,1,1,1,3,1,Outdoor Activities
+133,Female,22,KUST,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,8,3,5,4,4,4,4,2,5,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+134,Male,20,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,3,6,4,3,4,4,3,1,4,4,3,Nothing
+135,Female,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,3,8,3,2,4,2,3,3,3,4,4,Outdoor Activities
+136,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,6,8,4,3,4,4,2,4,3,3,3,"Religious Activities, Outdoor Activities"
+137,Male,17,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,0,6,5,5,5,5,4,1,2,2,5,"Social Connections, Online Entertainment, Sleep"
+138,Male,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,6,6,3,3,4,5,1,2,1,3,4,"Religious Activities, Sports and Fitness, Social Connections"
+139,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,7,8,4,4,4,3,1,3,5,2,3,Sports and Fitness
+140,Male,21,UET,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,0,8,4,5,4,5,1,5,3,1,4,Sports and Fitness
+141,Female,19,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,6,6,3,3,5,5,1,3,2,5,5,Outdoor Activities
+142,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,6,8,5,5,4,1,3,3,1,1,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+143,Male,20,COMSATS,Undergraduate,Data Science,1st year,2.75,Off-Campus,Yes,0,6,5,5,5,1,4,2,5,5,2,"Religious Activities, Social Connections, Online Entertainment"
+144,Male,19,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,6,4,5,3,5,4,3,3,3,1,Religious Activities
+145,Male,21,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,8,1,5,5,5,2,2,2,3,4,Sports and Fitness
+146,Male,18,PU,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,3,6,5,3,3,3,4,5,4,1,3,Religious Activities
+147,Male,18,PU,Undergraduate,Information Technology,3rd year,2.75,Off-Campus,No,3,6,4,4,4,5,4,3,5,5,2,Online Entertainment
+148,Female,21,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,6,8,4,4,4,3,4,4,4,1,3,"Social Connections, Sleep"
+149,Male,21,FAST,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,7,8,4,4,4,5,5,3,3,3,1,Sleep
+150,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,8,5,5,3,5,1,5,5,5,4,Religious Activities
+151,Female,18,PU,Undergraduate,Computer Science,2nd year,2.75,On-Campus,No,0,8,3,3,4,4,2,4,3,5,3,Online Entertainment
+152,Male,23,PU,Postgraduate,Data Science,1st year,1.75,Off-Campus,No,6,6,1,3,4,1,2,5,2,5,1,"Social Connections, Online Entertainment"
+153,Male,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,Yes,0,6,4,5,5,5,4,5,3,5,4,"Religious Activities, Social Connections, Online Entertainment"
+154,Male,19,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,7,6,5,5,4,3,4,3,3,4,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+155,Female,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,3,6,5,3,4,5,3,4,5,2,5,"Social Connections, Sleep"
+156,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,4,3,1,4,4,4,1,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+157,Female,19,COMSATS,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,4,4,4,5,3,3,5,4,4,5,Sports and Fitness
+158,Male,21,COMSATS,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,Yes,3,4,5,3,4,5,3,2,2,3,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+159,Female,20,COMSATS,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,3,8,1,2,4,5,1,3,3,2,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+160,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,8,5,3,4,5,1,2,4,3,3,Religious Activities
+161,Male,17,UET,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,6,4,3,3,4,2,2,3,3,3,5,"Religious Activities, Social Connections"
+162,Male,21,PU,Undergraduate,Data Science,3rd year,0.0,Off-Campus,No,7,8,4,4,5,5,3,2,2,1,3,"Religious Activities, Online Entertainment"
+163,Male,20,PU,Undergraduate,Information Technology,3rd year,2.75,Off-Campus,No,0,6,3,4,4,4,2,5,4,3,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+164,Male,21,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,0,6,5,5,3,5,1,1,2,5,3,Outdoor Activities
+165,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,3,6,5,4,5,2,5,5,4,3,5,"Religious Activities, Social Connections"
+166,Male,21,PU,Undergraduate,Software Engineering,1st year,2.75,Off-Campus,No,6,8,5,5,1,2,3,1,3,4,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+167,Male,20,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,Yes,7,6,5,5,5,1,5,3,4,4,5,"Religious Activities, Sports and Fitness, Social Connections"
+168,Female,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,5,4,4,5,4,2,4,5,2,Outdoor Activities
+169,Male,22,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,3,6,5,4,5,1,4,5,1,4,4,Sleep
+170,Male,18,UET,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,8,5,3,5,4,3,2,1,5,1,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+171,Male,21,FAST,Undergraduate,Computer Science,2nd year,3.75,On-Campus,No,7,6,4,5,4,4,2,3,3,1,4,Online Entertainment
+172,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,3,6,3,5,5,4,3,1,5,2,1,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+173,Male,20,VU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,4,3,4,1,2,1,3,4,"Social Connections, Sleep"
+174,Male,22,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,6,4,3,4,3,3,3,3,3,4,Sleep
+175,Female,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,8,3,3,2,2,5,2,3,4,3,"Religious Activities, Outdoor Activities"
+176,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,3,8,5,3,4,5,3,1,4,5,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+177,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,8,3,4,3,3,4,5,2,5,5,Sports and Fitness
+178,Male,18,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,3,6,4,4,4,5,4,4,5,4,1,"Religious Activities, Social Connections, Sleep"
+179,Male,20,UET,Undergraduate,Data Science,1st year,2.75,Off-Campus,Yes,3,4,4,5,3,1,5,4,5,4,5,Creative Outlets
+180,Male,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,6,6,4,4,5,5,5,1,3,3,3,Social Connections
+181,Male,18,PU,Undergraduate,Information Technology,2nd year,3.25,Off-Campus,No,6,8,3,4,3,5,5,2,3,2,1,"Religious Activities, Social Connections, Sleep"
+182,Male,18,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,No,0,6,5,3,4,4,4,2,4,5,3,"Religious Activities, Sports and Fitness"
+183,Male,20,UET,Undergraduate,Data Science,1st year,2.25,On-Campus,No,0,8,4,4,3,1,3,3,3,4,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+184,Male,20,PU,Undergraduate,Information Technology,3rd year,3.25,On-Campus,No,3,6,5,4,4,3,2,5,1,3,3,Outdoor Activities
+185,Female,21,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,4,3,4,2,4,2,2,3,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+186,Male,18,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,5,4,5,5,2,3,2,4,5,"Religious Activities, Online Entertainment"
+187,Male,18,PU,Undergraduate,Computer Science,2nd year,1.75,On-Campus,No,3,8,4,5,5,5,3,1,4,4,5,"Online Entertainment, Outdoor Activities, Sleep"
+188,Male,18,PU,Undergraduate,Information Technology,3rd year,2.75,Off-Campus,Yes,0,6,3,3,4,4,2,2,2,5,5,"Online Entertainment, Outdoor Activities, Sleep"
+189,Female,20,UMT,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,0,6,5,4,1,4,1,4,2,2,1,Outdoor Activities
+190,Male,21,FAST,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,3,3,1,2,1,2,1,4,3,Religious Activities
+191,Male,22,PU,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,0,6,2,3,3,1,3,3,2,5,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+192,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,0,6,4,4,1,5,3,4,1,3,4,Sports and Fitness
+193,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,4,4,2,4,5,3,1,5,2,"Religious Activities, Sports and Fitness, Social Connections"
+194,Male,20,COMSATS,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,0,6,3,4,5,3,2,3,4,3,1,"Religious Activities, Sports and Fitness, Social Connections"
+195,Male,21,UET,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,8,5,4,4,5,2,5,5,3,3,"Online Entertainment, Sleep"
+196,Male,19,KUST,Undergraduate,Data Science,4th year,2.75,On-Campus,Yes,0,6,3,3,5,3,3,3,4,5,4,"Social Connections, Online Entertainment"
+197,Male,20,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,3,6,5,3,3,3,2,4,2,1,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+198,Female,19,KUST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,4,4,4,5,4,5,4,4,4,1,Outdoor Activities
+199,Male,21,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,8,4,3,5,5,2,4,2,4,4,Online Entertainment
+200,Male,18,UET,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,0,6,4,2,2,4,2,5,4,4,5,Sleep
+201,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,3,6,3,3,1,5,4,2,5,4,5,"Religious Activities, Social Connections, Online Entertainment"
+202,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,8,5,5,2,5,2,3,3,5,5,"Online Entertainment, Sleep"
+203,Male,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,4,5,5,5,2,4,2,1,1,"Social Connections, Online Entertainment"
+204,Female,20,VU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,8,3,4,5,2,4,3,2,5,4,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+205,Male,20,PU,Undergraduate,Computer Science,2nd year,2.25,On-Campus,No,0,6,4,4,4,4,3,1,3,3,3,Outdoor Activities
+206,Male,17,UET,Undergraduate,Data Science,2nd year,0.0,Off-Campus,No,6,6,3,2,5,5,2,4,4,1,2,Outdoor Activities
+207,Male,20,UET,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,0,6,4,3,4,3,1,4,4,4,2,"Creative Outlets, Social Connections, Online Entertainment"
+208,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,3,8,5,4,2,5,3,3,3,5,4,Religious Activities
+209,Male,20,UET,Undergraduate,Computer Science,3rd year,2.25,On-Campus,No,3,6,4,5,3,3,4,4,4,3,3,Outdoor Activities
+210,Male,19,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,3,8,5,3,5,5,4,3,2,4,5,"Religious Activities, Sleep"
+211,Male,26,NUST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,3,4,4,2,5,2,3,1,4,4,1,"Religious Activities, Sports and Fitness, Sleep"
+212,Male,21,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,3,4,3,1,5,5,3,2,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+213,Female,21,PU,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,0,8,5,3,4,3,3,3,5,3,5,Creative Outlets
+214,Male,23,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,3,6,3,4,1,4,3,5,5,4,2,Sleep
+215,Male,22,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,4,4,4,4,5,3,3,4,3,4,"Religious Activities, Social Connections, Online Entertainment"
+216,Female,19,PU,Undergraduate,Data Science,2nd year,1.75,Off-Campus,Yes,7,6,3,5,4,4,1,5,4,5,1,Religious Activities
+217,Male,18,UET,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,5,3,4,4,3,5,2,3,4,"Social Connections, Sleep"
+218,Male,20,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,6,4,4,4,3,3,3,2,4,1,3,Online Entertainment
+219,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,6,5,4,1,5,3,4,5,1,3,Sleep
+220,Female,21,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,7,6,5,4,1,5,3,4,1,5,3,"Religious Activities, Online Entertainment"
+221,Female,20,COMSATS,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,0,8,3,4,2,5,3,4,4,3,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+222,Male,18,UET,Undergraduate,Computer Science,2nd year,3.25,On-Campus,Yes,3,8,4,4,5,3,4,3,2,4,2,Sleep
+223,Female,20,FAST,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,3,8,5,2,5,5,2,4,5,3,2,Sports and Fitness
+224,Male,20,COMSATS,Undergraduate,Software Engineering,2nd year,3.75,Off-Campus,No,0,6,3,4,4,5,2,2,1,4,3,Outdoor Activities
+225,Male,21,UET,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,5,2,4,3,4,2,4,3,2,Outdoor Activities
+226,Male,22,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,3,4,4,2,1,5,2,5,2,"Social Connections, Sleep"
+227,Male,19,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,5,5,5,3,1,2,2,3,5,Nothing
+228,Female,20,COMSATS,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,3,6,3,5,4,5,4,2,2,4,3,"Religious Activities, Sleep"
+229,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,8,3,4,5,5,4,5,1,3,1,Sports and Fitness
+230,Female,19,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,5,4,4,3,1,3,3,4,2,Sleep
+231,Male,20,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,0,8,5,5,5,4,5,5,1,5,1,Outdoor Activities
+232,Male,19,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,0,8,5,5,1,2,4,3,3,5,5,Creative Outlets
+233,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,8,4,5,3,5,4,2,2,3,3,Religious Activities
+234,Female,20,UET,Undergraduate,Computer Science,3rd year,1.75,Off-Campus,No,6,8,3,5,2,5,3,5,1,3,5,"Creative Outlets, Social Connections, Online Entertainment"
+235,Female,20,FAST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,7,6,4,2,4,4,3,5,4,2,2,"Religious Activities, Sports and Fitness, Social Connections"
+236,Male,20,KUST,Undergraduate,Data Science,3rd year,0.0,Off-Campus,No,3,6,4,4,4,2,2,1,4,4,4,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+237,Male,21,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,6,5,5,3,5,5,2,5,1,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+238,Male,18,UET,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,6,6,5,5,5,4,2,2,1,4,5,Religious Activities
+239,Female,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,7,6,5,4,3,4,3,2,2,5,5,Social Connections
+240,Male,20,PU,Undergraduate,Software Engineering,3rd year,3.25,On-Campus,No,6,8,5,4,3,2,1,3,4,3,5,Outdoor Activities
+241,Male,19,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,Yes,0,6,5,4,5,1,4,1,4,5,3,Online Entertainment
+242,Female,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,4,5,5,5,5,1,4,4,5,5,"Religious Activities, Sports and Fitness, Sleep"
+243,Male,21,UET,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,0,6,5,5,4,5,3,3,5,1,2,"Religious Activities, Social Connections"
+244,Female,23,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,3,6,4,5,5,4,2,3,3,2,3,"Religious Activities, Social Connections"
+245,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,8,4,4,4,5,4,3,1,5,4,Online Entertainment
+246,Male,20,UET,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,0,8,4,3,5,4,2,4,4,4,5,Sleep
+247,Female,19,PU,Postgraduate,Data Science,4th year,3.75,Off-Campus,No,0,8,5,5,4,4,2,1,5,5,5,Religious Activities
+248,Female,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,2,4,5,3,1,3,4,4,3,"Religious Activities, Social Connections, Online Entertainment"
+249,Male,18,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,4,4,5,5,5,4,4,1,3,Sports and Fitness
+250,Male,20,UET,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,7,6,3,5,4,5,3,1,1,5,2,Religious Activities
+251,Male,19,UET,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,7,6,5,4,4,4,3,1,4,4,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+252,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,3,5,3,5,4,3,2,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+253,Male,18,UMT,Undergraduate,Data Science,1st year,3.75,On-Campus,No,6,8,1,5,4,1,1,4,1,2,4,Sleep
+254,Female,19,UET,Postgraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,5,4,1,5,5,1,2,2,4,Social Connections
+255,Male,21,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,7,6,5,4,5,5,2,5,4,1,5,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+256,Male,18,NUST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,3,6,2,5,1,3,2,3,1,5,1,"Religious Activities, Sports and Fitness, Sleep"
+257,Female,20,COMSATS,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,0,6,3,4,4,4,1,4,4,2,4,Outdoor Activities
+258,Male,18,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,4,4,4,4,3,3,1,4,3,2,Nothing
+259,Male,20,PU,Undergraduate,Software Engineering,1st year,3.75,Off-Campus,No,0,4,5,4,2,4,3,2,5,4,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+260,Male,20,UET,Undergraduate,Computer Science,1st year,1.75,On-Campus,No,7,6,5,5,5,4,2,4,2,1,3,"Religious Activities, Sports and Fitness, Social Connections"
+261,Male,17,FAST,Postgraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,5,3,4,2,4,3,5,5,"Religious Activities, Sports and Fitness"
+262,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,8,4,4,3,2,1,2,2,5,3,"Online Entertainment, Outdoor Activities, Sleep"
+263,Male,20,KUST,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,6,6,4,5,5,5,4,1,3,5,1,Outdoor Activities
+264,Female,20,FAST,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,0,6,4,3,5,4,2,4,2,1,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+265,Male,22,COMSATS,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,0,6,4,5,2,5,4,4,2,4,3,Religious Activities
+266,Female,20,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,7,6,4,5,5,4,3,2,3,4,2,Creative Outlets
+267,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,0,6,4,4,1,5,2,5,4,4,3,Religious Activities
+268,Male,18,COMSATS,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,0,8,5,4,3,5,3,2,3,4,2,Sleep
+269,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,0,6,5,3,4,5,3,1,5,1,3,Sleep
+270,Male,20,COMSATS,Undergraduate,Data Science,1st year,0.0,Off-Campus,No,7,6,5,4,4,4,4,1,5,3,2,"Religious Activities, Online Entertainment"
+271,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,5,4,4,5,1,5,2,4,1,Outdoor Activities
+272,Male,22,NUST,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,4,4,4,2,3,4,1,2,"Online Entertainment, Outdoor Activities, Sleep"
+273,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,4,4,5,3,4,4,2,4,"Religious Activities, Sports and Fitness, Sleep"
+274,Female,18,PU,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,No,6,8,5,5,3,5,4,4,4,3,2,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+275,Male,19,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,6,8,5,4,5,4,3,1,4,3,1,"Religious Activities, Social Connections, Online Entertainment"
+276,Female,20,UOL,Undergraduate,Information Technology,3rd year,2.75,On-Campus,Yes,6,6,5,5,4,2,3,5,3,4,1,Social Connections
+277,Male,22,COMSATS,Undergraduate,Computer Science,1st year,1.75,Off-Campus,No,0,6,4,2,5,1,3,2,4,3,5,"Religious Activities, Online Entertainment"
+278,Male,19,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,6,5,4,4,1,4,4,5,3,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+279,Male,22,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,No,0,8,3,4,5,5,4,3,2,5,5,"Religious Activities, Sports and Fitness"
+280,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,4,4,4,4,4,2,3,5,2,"Religious Activities, Creative Outlets"
+281,Male,18,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,1,5,3,4,3,5,4,5,5,"Social Connections, Sleep"
+282,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,8,5,4,1,5,3,5,4,5,4,"Online Entertainment, Outdoor Activities, Sleep"
+283,Male,20,PU,Undergraduate,Information Technology,4th year,3.25,Off-Campus,No,3,6,4,4,4,5,3,3,4,4,1,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+284,Male,18,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,Yes,0,6,3,4,5,2,1,4,2,5,3,Online Entertainment
+285,Male,18,NUST,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,8,4,2,4,1,3,2,5,1,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+286,Female,19,FAST,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,6,8,4,4,1,1,4,5,2,4,5,Religious Activities
+287,Male,19,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,5,5,2,5,4,3,4,3,2,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+288,Female,20,PU,Undergraduate,Computer Science,3rd year,1.75,On-Campus,Yes,0,8,4,2,2,4,1,3,2,5,3,Social Connections
+289,Male,18,PU,Undergraduate,Data Science,1st year,2.25,Off-Campus,No,3,6,4,5,3,3,1,5,3,5,1,Religious Activities
+290,Male,20,PU,Undergraduate,Data Science,4th year,3.75,On-Campus,No,3,4,3,4,5,5,1,3,2,4,4,Sports and Fitness
+291,Male,26,UET,Undergraduate,Computer Science,4th year,3.25,On-Campus,No,0,8,3,5,5,1,3,2,2,4,2,"Online Entertainment, Sleep"
+292,Female,18,PU,Undergraduate,Data Science,1st year,3.25,On-Campus,No,7,8,5,5,4,4,4,5,3,5,4,"Religious Activities, Social Connections, Online Entertainment"
+293,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,7,8,4,4,4,5,4,3,1,3,4,Sleep
+294,Male,21,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,8,5,3,5,5,3,5,3,5,5,Sleep
+295,Male,21,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,4,4,5,4,2,3,4,5,5,Sports and Fitness
+296,Male,22,PU,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,6,5,4,5,2,3,4,2,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+297,Female,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,0,6,5,5,4,3,4,3,5,3,5,Sleep
+298,Female,26,COMSATS,Undergraduate,Computer Science,1st year,1.75,Off-Campus,No,3,8,4,3,4,1,3,3,4,1,5,Online Entertainment
+299,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,4,3,3,5,4,3,3,4,2,1,Online Entertainment
+300,Female,21,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,3,6,4,4,1,2,1,5,3,4,5,Online Entertainment
+301,Female,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,7,6,4,5,4,5,5,4,5,3,3,Outdoor Activities
+302,Male,18,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,Yes,0,6,5,5,3,5,2,1,2,1,5,"Religious Activities, Online Entertainment, Outdoor Activities"
+303,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,8,4,4,5,2,1,4,3,3,1,"Religious Activities, Sports and Fitness"
+304,Male,17,PU,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,0,8,4,4,4,5,1,5,4,3,5,Religious Activities
+305,Male,20,UET,Undergraduate,Computer Science,4th year,2.75,Off-Campus,Yes,0,8,4,4,3,5,1,2,5,5,2,"Online Entertainment, Outdoor Activities, Sleep"
+306,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,7,4,3,4,2,3,3,3,4,5,4,"Religious Activities, Sports and Fitness"
+307,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,3,5,4,2,4,5,4,5,2,"Online Entertainment, Outdoor Activities, Sleep"
+308,Male,22,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,6,4,5,4,5,3,3,3,2,3,"Creative Outlets, Social Connections, Online Entertainment"
+309,Male,19,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,3,6,5,4,4,4,3,4,4,4,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+310,Male,23,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,3,8,2,5,4,5,2,3,2,1,4,Online Entertainment
+311,Female,19,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,Yes,6,6,4,5,5,1,3,3,4,3,5,"Religious Activities, Online Entertainment, Outdoor Activities"
+312,Female,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,4,3,3,4,3,5,4,5,2,Online Entertainment
+313,Male,22,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,Yes,0,6,5,4,5,4,4,1,5,5,2,"Religious Activities, Social Connections"
+314,Male,21,UET,Undergraduate,Computer Science,2nd year,3.25,On-Campus,Yes,3,4,5,5,4,5,3,1,1,5,3,"Religious Activities, Social Connections, Online Entertainment"
+315,Male,20,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,7,8,5,3,5,5,3,4,2,4,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+316,Male,20,PU,Undergraduate,Software Engineering,1st year,3.75,Off-Campus,No,0,6,5,2,3,5,2,5,2,5,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+317,Male,19,NUST,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,0,8,5,4,5,4,3,2,5,1,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+318,Male,20,FAST,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,7,6,5,3,5,2,1,5,2,5,3,Outdoor Activities
+319,Female,22,PU,Postgraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,8,3,5,5,4,2,3,4,4,3,Outdoor Activities
+320,Male,20,UET,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,3,6,5,4,5,4,2,3,2,5,5,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+321,Male,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,Yes,0,6,5,5,4,4,2,2,3,1,5,"Creative Outlets, Social Connections, Online Entertainment"
+322,Male,20,KUST,Undergraduate,Computer Science,4th year,3.25,Off-Campus,Yes,6,8,4,3,3,1,1,4,1,4,5,"Religious Activities, Sports and Fitness, Social Connections"
+323,Female,21,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,8,5,2,2,5,2,5,3,4,1,Religious Activities
+324,Female,20,PU,Postgraduate,Data Science,3rd year,2.75,Off-Campus,No,0,4,5,4,3,4,4,3,4,4,5,Online Entertainment
+325,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,1.75,On-Campus,No,3,6,4,4,3,3,2,4,4,3,3,"Religious Activities, Sleep"
+326,Male,20,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,Yes,0,8,4,3,1,5,4,3,4,3,4,Online Entertainment
+327,Female,19,COMSATS,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,3,4,5,1,5,1,4,3,1,Sleep
+328,Female,20,PU,Undergraduate,Software Engineering,2nd year,2.75,Off-Campus,No,3,8,5,4,5,4,1,1,4,4,5,Online Entertainment
+329,Female,20,COMSATS,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,5,4,5,4,2,2,3,3,5,Online Entertainment
+330,Male,20,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,7,4,1,4,1,4,3,1,4,5,2,Outdoor Activities
+331,Female,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,4,4,2,3,4,2,4,3,2,"Religious Activities, Online Entertainment"
+332,Male,20,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,0,6,3,4,4,1,3,2,4,5,3,Religious Activities
+333,Male,19,FAST,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,6,4,4,4,5,1,1,4,5,5,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+334,Male,20,UMT,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,6,5,4,4,4,3,3,4,4,1,Social Connections
+335,Male,22,UMT,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,7,6,3,3,5,2,3,1,3,5,4,Sports and Fitness
+336,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,6,8,3,2,5,4,3,4,3,3,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+337,Male,21,FAST,Undergraduate,Information Technology,2nd year,2.75,Off-Campus,No,6,6,5,3,4,5,4,5,5,4,5,Sleep
+338,Male,22,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,4,4,4,4,4,4,2,3,4,Outdoor Activities
+339,Male,20,PU,Postgraduate,Data Science,2nd year,2.75,Off-Campus,No,6,6,3,3,3,3,1,4,2,1,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+340,Male,22,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,8,4,3,4,5,2,2,3,5,3,"Religious Activities, Sleep"
+341,Male,21,PU,Undergraduate,Information Technology,3rd year,2.75,On-Campus,No,0,6,5,4,5,5,4,5,5,5,2,"Social Connections, Online Entertainment"
+342,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,7,6,3,4,4,1,1,3,3,5,2,Online Entertainment
+343,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,6,5,4,4,4,2,4,2,4,1,"Creative Outlets, Social Connections, Online Entertainment"
+344,Female,20,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,8,4,5,3,4,2,4,1,3,4,Sports and Fitness
+345,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,4,4,3,2,1,2,2,1,Religious Activities
+346,Male,20,NUST,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,3,8,2,4,3,5,4,3,4,3,5,"Religious Activities, Online Entertainment, Outdoor Activities"
+347,Male,20,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,3,6,3,4,4,5,3,2,3,3,5,Outdoor Activities
+348,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,0,6,4,4,5,5,5,5,4,3,3,Social Connections
+349,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,8,2,5,4,5,2,5,4,3,3,"Religious Activities, Social Connections, Online Entertainment"
+350,Male,20,PU,Postgraduate,Software Engineering,4th year,3.75,Off-Campus,No,0,6,5,3,4,2,3,2,2,2,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+351,Female,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,7,6,4,5,1,3,1,5,5,3,2,"Religious Activities, Sports and Fitness, Social Connections"
+352,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,0,6,5,4,5,3,3,5,2,4,4,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+353,Male,23,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,6,6,3,4,5,4,3,2,2,5,1,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+354,Male,20,UOL,Postgraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,5,4,2,5,3,2,1,5,5,"Online Entertainment, Sleep"
+355,Male,21,PU,Undergraduate,Information Technology,1st year,3.25,Off-Campus,No,0,8,3,4,4,5,2,5,3,2,3,"Online Entertainment, Outdoor Activities, Sleep"
+356,Male,20,PU,Undergraduate,Software Engineering,2nd year,3.25,On-Campus,No,3,8,4,5,4,2,3,4,3,3,2,Religious Activities
+357,Male,21,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,3,6,5,5,5,3,2,5,4,4,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+358,Male,20,COMSATS,Undergraduate,Data Science,2nd year,3.25,On-Campus,Yes,3,6,4,3,5,4,1,5,5,3,5,Social Connections
+359,Male,19,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,7,6,4,3,5,3,5,4,4,3,4,Sports and Fitness
+360,Male,18,PU,Undergraduate,Software Engineering,3rd year,2.75,On-Campus,No,7,8,3,4,4,4,4,3,4,2,2,Online Entertainment
+361,Male,19,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,2,3,3,3,5,2,4,2,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+362,Male,23,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,Yes,3,8,2,4,3,1,4,4,5,5,1,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+363,Male,20,FAST,Undergraduate,Computer Science,2nd year,3.75,On-Campus,No,0,4,3,4,3,5,2,4,3,5,1,Sports and Fitness
+364,Male,20,UET,Undergraduate,Data Science,3rd year,0.0,Off-Campus,Yes,0,6,3,5,5,3,3,2,5,3,5,"Religious Activities, Online Entertainment"
+365,Male,19,VU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,2,4,3,1,3,1,2,3,5,Sports and Fitness
+366,Male,21,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,6,4,5,1,5,4,5,2,5,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+367,Male,20,UET,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,7,6,5,5,4,5,4,5,2,1,2,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+368,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,4,3,4,4,2,2,3,1,2,1,"Religious Activities, Sports and Fitness, Outdoor Activities"
+369,Female,21,COMSATS,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,3,8,5,5,4,2,3,1,4,5,3,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+370,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,8,5,5,5,4,1,1,3,5,4,Sleep
+371,Male,18,PU,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,No,0,8,4,4,4,2,2,5,2,3,5,Outdoor Activities
+372,Female,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,4,1,3,5,3,1,3,4,Creative Outlets
+373,Female,21,UET,Postgraduate,Computer Science,1st year,3.25,On-Campus,No,3,6,5,5,1,4,5,5,4,3,5,Online Entertainment
+374,Male,21,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,5,3,4,1,2,5,4,2,1,"Social Connections, Outdoor Activities"
+375,Male,20,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,7,6,3,3,3,3,1,4,1,3,4,Sports and Fitness
+376,Male,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,5,1,1,3,5,2,4,3,"Social Connections, Outdoor Activities"
+377,Male,22,PU,Undergraduate,Data Science,1st year,2.25,On-Campus,No,7,6,1,5,4,3,1,4,5,3,2,Sports and Fitness
+378,Male,20,PU,Undergraduate,Information Technology,4th year,3.75,On-Campus,No,0,6,3,4,5,2,3,3,3,3,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+379,Male,21,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,8,3,4,4,4,1,1,3,3,4,Sleep
+380,Female,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,8,4,3,5,5,3,5,4,4,1,Religious Activities
+381,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,4,5,3,3,4,4,2,3,Outdoor Activities
+382,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,5,5,2,5,3,2,5,4,"Religious Activities, Social Connections"
+383,Female,21,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,4,4,4,4,4,4,2,2,2,"Religious Activities, Creative Outlets, Social Connections"
+384,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,4,1,3,4,5,1,3,4,4,1,"Religious Activities, Creative Outlets, Social Connections"
+385,Male,20,COMSATS,Undergraduate,Data Science,4th year,2.75,Off-Campus,Yes,0,8,4,5,3,1,1,1,4,5,3,"Religious Activities, Social Connections, Online Entertainment"
+386,Male,18,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,Yes,3,6,4,2,4,4,3,3,3,2,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+387,Male,21,COMSATS,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,0,6,4,4,4,5,3,1,2,1,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+388,Male,20,PU,Undergraduate,Computer Science,1st year,0.0,Off-Campus,No,0,6,5,4,4,5,3,4,4,3,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+389,Female,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,6,6,4,4,5,2,4,4,3,3,3,"Social Connections, Online Entertainment, Sleep"
+390,Male,22,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,0,8,4,3,1,3,4,4,4,4,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+391,Male,23,PU,Undergraduate,Data Science,4th year,2.25,Off-Campus,No,3,6,3,4,3,5,2,1,3,3,3,"Religious Activities, Social Connections, Online Entertainment"
+392,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,4,1,3,5,3,3,2,1,5,4,Sleep
+393,Female,21,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,Yes,6,8,5,5,4,2,2,5,3,5,4,Sleep
+394,Male,19,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,7,6,3,5,3,1,2,3,5,4,1,"Social Connections, Online Entertainment"
+395,Male,20,PU,Postgraduate,Computer Science,3rd year,3.75,On-Campus,No,0,6,4,4,4,5,2,4,5,3,5,Religious Activities
+396,Male,20,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,0,8,5,3,4,3,1,4,1,4,2,"Religious Activities, Sports and Fitness"
+397,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,Yes,3,8,3,5,5,3,1,3,4,5,5,Sports and Fitness
+398,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,7,8,5,4,5,3,2,2,1,5,5,"Social Connections, Sleep"
+399,Male,22,FAST,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,4,5,5,3,1,4,4,4,Religious Activities
+400,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,4,4,5,5,3,5,4,2,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+401,Female,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,8,3,5,4,2,4,5,2,3,3,"Creative Outlets, Social Connections, Online Entertainment"
+402,Male,20,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,0,6,3,4,2,1,3,3,3,1,1,"Religious Activities, Sports and Fitness, Outdoor Activities"
+403,Female,18,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,3,6,4,4,5,5,3,4,4,5,5,"Religious Activities, Outdoor Activities"
+404,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,6,4,2,3,3,4,5,5,5,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+405,Male,20,COMSATS,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,0,6,3,4,4,5,1,1,2,4,1,"Religious Activities, Social Connections, Online Entertainment"
+406,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,4,3,3,4,4,1,4,4,3,3,"Religious Activities, Sleep"
+407,Female,23,PU,Undergraduate,Software Engineering,3rd year,2.75,Off-Campus,No,3,6,5,4,3,1,5,2,3,3,4,"Religious Activities, Social Connections"
+408,Male,21,COMSATS,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,6,4,5,5,3,1,1,2,3,3,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+409,Female,20,PU,Undergraduate,Information Technology,4th year,3.25,Off-Campus,No,6,6,4,4,3,5,4,5,2,3,4,"Social Connections, Outdoor Activities"
+410,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,7,6,5,3,5,5,1,3,3,4,3,"Religious Activities, Creative Outlets"
+411,Male,20,UMT,Undergraduate,Information Technology,2nd year,3.25,Off-Campus,No,3,6,4,4,4,3,1,3,3,5,5,Nothing
+412,Female,22,PU,Undergraduate,Information Technology,2nd year,2.75,Off-Campus,Yes,0,6,4,4,4,5,4,5,4,3,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+413,Male,20,UMT,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,0,6,4,5,5,2,2,5,2,4,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+414,Male,22,UET,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,3,6,5,4,1,4,3,3,4,3,4,"Creative Outlets, Social Connections, Online Entertainment"
+415,Male,22,UET,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,3,4,3,4,3,5,3,2,3,1,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+416,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,4,5,4,1,2,2,2,5,3,Social Connections
+417,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,3,8,5,4,5,1,1,5,4,3,2,Online Entertainment
+418,Male,20,PU,Undergraduate,Data Science,3rd year,2.25,Off-Campus,No,0,8,2,4,5,1,3,3,4,1,3,Religious Activities
+419,Male,17,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,1,4,5,3,3,4,3,3,1,Sleep
+420,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,4,5,5,2,1,3,2,3,2,"Religious Activities, Creative Outlets, Social Connections"
+421,Female,19,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,4,4,4,1,5,5,5,3,5,Sleep
+422,Male,20,UET,Undergraduate,Computer Science,1st year,0.0,Off-Campus,No,7,6,5,4,4,5,3,4,2,3,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+423,Male,21,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,8,4,4,5,5,3,2,2,3,4,Sports and Fitness
+424,Male,20,VU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,Yes,6,8,4,5,4,3,1,4,5,5,1,Outdoor Activities
+425,Male,26,PU,Undergraduate,Computer Science,4th year,3.25,On-Campus,No,0,6,5,3,3,5,4,1,1,4,4,Social Connections
+426,Male,19,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,6,5,4,4,5,1,4,4,5,1,Sports and Fitness
+427,Male,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,7,6,3,5,4,4,1,1,3,2,1,"Religious Activities, Sports and Fitness"
+428,Male,19,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,Yes,7,6,5,3,5,5,4,1,5,1,2,Sleep
+429,Male,20,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,0,6,4,5,5,5,3,2,4,2,4,"Religious Activities, Social Connections, Sleep"
+430,Male,20,NUST,Undergraduate,Computer Science,3rd year,3.25,On-Campus,Yes,3,8,4,5,4,2,2,4,3,3,4,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+431,Male,18,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,3,3,5,4,4,3,2,5,3,"Religious Activities, Outdoor Activities"
+432,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,8,3,5,4,2,2,3,2,3,3,Online Entertainment
+433,Female,19,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,7,6,5,5,5,5,3,4,5,5,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+434,Female,20,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,0,6,4,5,5,5,2,5,1,5,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+435,Male,20,COMSATS,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,5,2,3,1,3,5,2,2,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+436,Female,19,UMT,Undergraduate,Information Technology,3rd year,2.75,On-Campus,No,3,6,4,4,2,5,5,2,2,1,2,Sports and Fitness
+437,Male,20,PU,Undergraduate,Data Science,3rd year,0.0,Off-Campus,Yes,3,6,4,3,1,5,5,2,2,4,3,"Religious Activities, Online Entertainment"
+438,Male,18,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,4,3,4,4,3,5,2,3,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+439,Male,18,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,3,6,5,4,4,2,2,4,3,3,3,"Religious Activities, Creative Outlets"
+440,Male,22,PU,Undergraduate,Information Technology,1st year,3.25,Off-Campus,No,0,6,4,4,4,4,3,3,2,3,1,Online Entertainment
+441,Male,20,PU,Postgraduate,Information Technology,3rd year,2.25,Off-Campus,No,3,8,2,3,4,5,1,5,3,3,2,"Religious Activities, Online Entertainment, Outdoor Activities"
+442,Male,19,PU,Undergraduate,Software Engineering,3rd year,0.0,Off-Campus,Yes,6,6,4,3,5,1,2,5,4,1,4,Nothing
+443,Male,20,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,3,8,5,4,3,2,4,5,5,3,2,"Social Connections, Online Entertainment, Sleep"
+444,Male,22,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,0,6,4,4,5,4,1,4,2,5,5,"Religious Activities, Social Connections, Online Entertainment"
+445,Male,21,PU,Postgraduate,Software Engineering,4th year,3.75,Off-Campus,Yes,3,8,5,5,4,3,3,1,3,4,2,Online Entertainment
+446,Female,22,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,6,8,5,4,3,5,2,5,1,1,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+447,Female,26,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,5,4,3,3,3,3,3,3,1,"Religious Activities, Sports and Fitness, Social Connections"
+448,Male,18,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,7,6,3,4,5,3,1,1,3,3,2,"Religious Activities, Sleep"
+449,Female,22,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,1,5,5,2,5,2,4,3,3,Online Entertainment
+450,Male,17,FAST,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,6,3,4,3,3,4,5,1,3,1,Outdoor Activities
+451,Male,26,UET,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,6,4,4,5,5,4,3,1,1,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+452,Male,17,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,4,4,3,5,4,3,2,5,3,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+453,Female,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,3,6,3,3,5,4,4,4,4,1,4,"Religious Activities, Social Connections, Sleep"
+454,Male,19,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,Yes,6,6,3,3,2,4,4,5,3,4,2,Social Connections
+455,Female,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,3,3,3,5,3,1,4,2,4,Online Entertainment
+456,Male,19,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,0,8,3,2,4,5,2,3,4,3,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+457,Male,20,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,0,8,3,2,3,4,2,4,2,5,3,"Creative Outlets, Social Connections, Online Entertainment"
+458,Male,20,COMSATS,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,6,6,5,4,4,5,2,4,2,3,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+459,Male,20,PU,Undergraduate,Data Science,2nd year,3.75,On-Campus,No,0,4,1,3,1,1,1,2,3,3,4,"Religious Activities, Sports and Fitness, Online Entertainment"
+460,Male,20,PU,Undergraduate,Computer Science,2nd year,1.75,Off-Campus,Yes,0,6,5,5,1,5,4,2,4,2,2,"Social Connections, Outdoor Activities"
+461,Male,23,COMSATS,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,0,6,3,3,4,3,1,3,4,5,1,"Religious Activities, Social Connections, Online Entertainment"
+462,Male,22,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,5,3,1,2,1,1,3,1,1,"Religious Activities, Social Connections"
+463,Male,20,COMSATS,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,4,5,4,5,2,4,2,4,3,"Religious Activities, Sports and Fitness, Online Entertainment"
+464,Male,17,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,3,4,5,3,3,2,5,5,4,5,4,Sleep
+465,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,0,6,4,5,3,5,3,5,4,3,5,Online Entertainment
+466,Male,20,PU,Postgraduate,Data Science,1st year,2.75,On-Campus,Yes,3,6,5,4,3,5,1,5,4,4,5,Online Entertainment
+467,Male,21,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,No,3,6,1,2,5,5,3,4,2,1,4,Sports and Fitness
+468,Male,21,KUST,Postgraduate,Computer Science,2nd year,2.75,Off-Campus,Yes,0,6,3,4,3,3,3,5,4,1,4,"Social Connections, Sleep"
+469,Male,20,PU,Undergraduate,Information Technology,4th year,3.75,Off-Campus,No,3,8,2,5,1,4,3,4,1,4,3,Sleep
+470,Male,19,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,6,5,4,2,2,4,4,3,2,3,"Religious Activities, Social Connections, Online Entertainment"
+471,Male,20,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,6,5,4,4,4,2,1,5,3,4,Creative Outlets
+472,Male,22,PU,Undergraduate,Computer Science,1st year,0.0,Off-Campus,No,3,6,4,3,5,5,5,2,2,5,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+473,Male,20,FAST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,4,3,5,3,3,3,5,3,"Religious Activities, Outdoor Activities"
+474,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,5,5,4,3,4,5,1,4,5,Outdoor Activities
+475,Male,20,NUST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,3,2,4,3,3,3,4,1,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+476,Male,22,PU,Undergraduate,Data Science,4th year,3.25,On-Campus,No,6,6,4,4,5,4,4,4,3,3,1,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+477,Male,22,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,7,8,4,3,4,4,3,5,3,5,1,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+478,Female,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,8,4,5,4,4,4,4,5,3,2,Creative Outlets
+479,Male,17,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,4,5,5,4,4,5,3,2,2,Sleep
+480,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,Yes,3,6,5,5,4,1,5,1,2,5,5,"Social Connections, Outdoor Activities"
+481,Male,23,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,3,5,4,2,1,5,3,3,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+482,Male,21,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,3,6,4,4,5,5,3,4,4,3,3,"Religious Activities, Social Connections"
+483,Male,18,COMSATS,Undergraduate,Data Science,4th year,2.75,On-Campus,No,7,6,5,3,2,4,1,4,1,1,2,Social Connections
+484,Male,20,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,3,2,4,4,4,5,5,5,2,"Religious Activities, Online Entertainment"
+485,Male,21,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,3,8,3,4,4,3,3,3,2,5,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+486,Male,19,UMT,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,4,5,5,2,2,2,3,5,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+487,Male,22,UET,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,0,6,4,3,4,4,4,1,3,2,1,Religious Activities
+488,Male,19,COMSATS,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,6,6,4,3,4,4,2,2,4,3,2,"Religious Activities, Outdoor Activities"
+489,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,6,6,4,4,5,1,4,2,2,1,5,Social Connections
+490,Male,20,VU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,6,6,5,5,4,4,5,2,2,2,2,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+491,Male,21,PU,Undergraduate,Data Science,2nd year,3.25,On-Campus,No,3,6,4,5,5,1,2,3,5,1,5,Sports and Fitness
+492,Female,23,FAST,Undergraduate,Computer Science,3rd year,1.75,Off-Campus,No,0,6,4,2,4,5,3,3,2,3,4,"Religious Activities, Sports and Fitness"
+493,Male,20,PU,Undergraduate,Information Technology,2nd year,3.75,Off-Campus,No,0,8,3,4,4,1,5,1,2,1,3,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+494,Male,23,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,3,5,1,5,4,3,3,1,4,Religious Activities
+495,Male,20,PU,Undergraduate,Information Technology,2nd year,3.75,Off-Campus,No,3,8,4,4,3,5,5,5,4,5,3,"Religious Activities, Social Connections"
+496,Female,21,VU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,4,4,3,3,1,2,2,2,3,"Online Entertainment, Outdoor Activities, Sleep"
+497,Female,19,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,6,4,4,3,2,2,5,2,3,2,"Religious Activities, Online Entertainment"
+498,Male,21,FAST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,7,8,4,5,3,4,1,5,4,1,3,"Religious Activities, Social Connections, Online Entertainment"
+499,Male,20,COMSATS,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,4,4,5,2,3,5,5,1,"Religious Activities, Sports and Fitness, Social Connections"
+500,Male,18,UET,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,4,4,4,2,2,5,2,5,4,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+501,Male,21,UOL,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,6,6,4,5,5,5,3,4,5,2,3,"Religious Activities, Outdoor Activities"
+502,Male,19,PU,Undergraduate,Data Science,4th year,3.75,Off-Campus,No,0,6,4,5,5,5,4,1,3,4,3,Online Entertainment
+503,Male,18,VU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,8,3,5,4,5,4,1,2,4,4,Religious Activities
+504,Male,17,UET,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,5,4,1,5,3,3,5,2,5,Outdoor Activities
+505,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,3,5,3,5,3,2,5,1,"Religious Activities, Creative Outlets"
+506,Male,20,VU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,6,6,3,3,3,3,1,1,1,1,4,"Religious Activities, Sports and Fitness"
+507,Female,19,UET,Undergraduate,Computer Science,1st year,3.25,On-Campus,Yes,6,6,5,5,5,4,1,3,1,3,3,"Religious Activities, Sports and Fitness, Social Connections"
+508,Male,20,UET,Undergraduate,Data Science,2nd year,3.75,On-Campus,No,0,6,4,4,4,4,3,2,4,5,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+509,Female,21,PU,Undergraduate,Data Science,2nd year,2.25,On-Campus,No,0,6,3,4,4,2,3,4,4,1,3,Online Entertainment
+510,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,7,8,3,4,5,3,5,3,4,4,5,Online Entertainment
+511,Male,20,PU,Postgraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,2,4,5,2,5,2,5,3,4,Sports and Fitness
+512,Female,20,FAST,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,0,8,4,5,3,1,4,2,4,4,1,"Online Entertainment, Outdoor Activities, Sleep"
+513,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,6,8,4,5,1,1,3,5,1,3,4,"Religious Activities, Social Connections, Sleep"
+514,Female,21,PU,Undergraduate,Data Science,4th year,3.25,On-Campus,Yes,6,6,4,4,5,5,3,3,3,3,3,"Religious Activities, Sleep"
+515,Male,18,PU,Undergraduate,Software Engineering,3rd year,2.25,Off-Campus,No,0,8,2,2,5,2,1,5,4,3,5,"Social Connections, Online Entertainment"
+516,Female,18,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,0,4,5,4,3,3,2,3,4,4,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+517,Female,17,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,4,4,3,1,5,3,3,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+518,Male,23,PU,Undergraduate,Information Technology,2nd year,3.25,Off-Campus,No,0,6,5,4,1,2,3,1,3,3,2,"Religious Activities, Social Connections, Online Entertainment"
+519,Female,20,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,Yes,7,6,4,3,5,5,5,3,2,5,3,Religious Activities
+520,Female,20,PU,Undergraduate,Computer Science,2nd year,2.75,On-Campus,No,0,8,4,4,5,1,3,4,3,3,3,"Creative Outlets, Social Connections, Online Entertainment"
+521,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,8,3,4,3,5,3,5,2,5,2,Social Connections
+522,Male,20,UET,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,6,6,3,5,5,4,1,3,1,5,2,Sleep
+523,Male,21,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,6,8,4,4,1,5,3,4,5,5,1,Sleep
+524,Male,20,VU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,0,6,3,4,5,4,1,2,4,5,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+525,Male,19,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,8,5,4,4,3,1,5,3,5,4,"Religious Activities, Social Connections"
+526,Male,19,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,0,6,5,4,4,5,2,1,5,5,2,Sleep
+527,Male,18,COMSATS,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,6,5,5,2,4,3,1,4,3,4,"Social Connections, Online Entertainment, Sleep"
+528,Male,20,PU,Undergraduate,Software Engineering,1st year,3.75,Off-Campus,Yes,3,6,5,4,1,4,3,4,4,1,4,Religious Activities
+529,Male,18,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,Yes,0,6,3,4,4,4,3,1,4,4,1,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+530,Female,19,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,6,6,4,5,3,1,2,1,1,5,1,Online Entertainment
+531,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,5,5,2,5,1,3,3,5,3,Online Entertainment
+532,Male,18,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,Yes,3,6,5,4,3,1,3,1,4,2,2,"Religious Activities, Outdoor Activities"
+533,Male,18,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,0,8,4,5,5,5,1,2,3,2,3,Religious Activities
+534,Female,22,KUST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,5,4,4,4,1,1,5,5,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+535,Male,20,UET,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,6,8,2,4,4,3,2,4,2,3,4,"Creative Outlets, Social Connections, Online Entertainment"
+536,Male,19,COMSATS,Undergraduate,Software Engineering,1st year,2.75,Off-Campus,No,0,8,4,4,5,4,4,2,5,3,3,Outdoor Activities
+537,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,3,8,4,3,3,5,5,4,4,3,4,Sports and Fitness
+538,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,3,6,5,4,3,5,2,4,2,4,1,Creative Outlets
+539,Male,19,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,5,4,5,4,4,2,1,5,1,Outdoor Activities
+540,Male,20,UET,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,Yes,3,6,3,5,3,4,3,2,4,4,1,"Religious Activities, Social Connections, Online Entertainment"
+541,Female,20,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,Yes,0,6,4,4,4,4,4,3,2,2,2,"Religious Activities, Sports and Fitness, Sleep"
+542,Male,22,FAST,Undergraduate,Computer Science,3rd year,2.25,On-Campus,Yes,0,6,4,2,5,3,3,5,4,4,3,"Religious Activities, Social Connections, Sleep"
+543,Male,22,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,4,4,5,2,1,4,3,5,5,Sports and Fitness
+544,Male,21,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,6,6,4,2,3,3,2,5,2,3,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+545,Male,20,UET,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,3,6,5,3,2,5,3,3,4,3,4,"Religious Activities, Social Connections"
+546,Male,19,PU,Undergraduate,Information Technology,1st year,3.25,Off-Campus,No,6,6,3,5,5,2,5,4,4,2,5,"Creative Outlets, Social Connections, Online Entertainment"
+547,Male,22,UET,Postgraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,4,5,4,4,5,4,4,5,5,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+548,Male,21,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,5,4,3,2,4,3,4,3,5,Religious Activities
+549,Male,19,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,Yes,6,8,4,3,5,1,2,3,2,3,5,"Religious Activities, Social Connections, Online Entertainment"
+550,Male,20,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,7,6,4,4,3,4,3,3,3,5,4,Sports and Fitness
+551,Male,20,COMSATS,Undergraduate,Information Technology,3rd year,3.25,On-Campus,No,0,8,5,2,4,3,1,1,2,1,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+552,Male,19,UET,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,3,6,4,4,1,4,5,3,1,1,5,"Religious Activities, Social Connections, Online Entertainment"
+553,Male,21,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,3,4,4,3,3,3,4,4,3,"Creative Outlets, Social Connections, Online Entertainment"
+554,Male,20,PU,Undergraduate,Data Science,4th year,1.75,Off-Campus,No,3,6,4,3,5,5,3,2,5,3,2,Sleep
+555,Male,22,PU,Undergraduate,Data Science,4th year,3.75,On-Campus,No,0,8,5,4,4,5,3,4,2,3,1,Sleep
+556,Male,22,PU,Postgraduate,Software Engineering,3rd year,3.75,Off-Campus,Yes,3,6,3,5,4,4,1,5,3,5,4,"Religious Activities, Social Connections, Sleep"
+557,Male,19,COMSATS,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,6,8,3,3,5,3,1,3,4,4,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+558,Male,19,KUST,Undergraduate,Data Science,4th year,1.75,Off-Campus,No,3,4,4,2,4,4,4,4,3,2,2,Online Entertainment
+559,Female,20,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,6,6,4,3,4,5,2,1,4,5,4,"Religious Activities, Social Connections, Online Entertainment"
+560,Male,18,PU,Undergraduate,Computer Science,4th year,2.25,On-Campus,Yes,3,6,4,4,4,1,4,4,2,4,3,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+561,Male,20,FAST,Postgraduate,Software Engineering,3rd year,3.75,Off-Campus,No,0,6,1,2,3,4,4,3,4,5,5,Online Entertainment
+562,Male,22,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,8,5,3,2,3,2,5,2,2,2,"Religious Activities, Social Connections, Online Entertainment"
+563,Male,19,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,4,3,4,5,3,1,3,4,5,1,Sports and Fitness
+564,Male,20,COMSATS,Postgraduate,Software Engineering,1st year,3.25,Off-Campus,Yes,3,6,5,4,4,1,3,2,1,4,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+565,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,8,4,4,5,3,1,4,3,3,1,Sports and Fitness
+566,Male,20,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,0,6,4,4,2,4,1,2,3,5,1,"Social Connections, Outdoor Activities"
+567,Male,20,PU,Undergraduate,Data Science,2nd year,2.75,On-Campus,No,0,6,4,4,4,4,1,1,3,1,3,Outdoor Activities
+568,Male,22,PU,Undergraduate,Data Science,1st year,2.25,Off-Campus,No,7,6,3,5,5,4,4,3,5,1,2,"Religious Activities, Sports and Fitness"
+569,Female,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,5,4,4,5,3,4,1,3,4,Creative Outlets
+570,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,Yes,0,8,5,4,5,3,1,5,3,4,5,Nothing
+571,Female,22,KUST,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,3,8,3,4,4,2,1,4,4,5,4,Online Entertainment
+572,Female,21,FAST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,Yes,3,6,5,4,3,5,4,1,2,1,4,"Social Connections, Sleep"
+573,Female,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,5,5,2,3,4,4,2,3,"Religious Activities, Sports and Fitness, Online Entertainment"
+574,Male,21,PU,Undergraduate,Computer Science,3rd year,1.75,On-Campus,No,0,6,5,3,5,1,1,3,4,3,1,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+575,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,6,3,5,3,5,3,5,3,5,1,Creative Outlets
+576,Male,18,PU,Undergraduate,Data Science,3rd year,2.25,Off-Campus,Yes,0,8,3,5,5,3,2,5,5,5,2,Online Entertainment
+577,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,8,4,3,5,5,4,3,4,1,5,"Social Connections, Sleep"
+578,Male,19,PU,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,Yes,6,4,2,5,4,5,5,2,1,4,2,"Religious Activities, Social Connections, Online Entertainment"
+579,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,7,8,3,5,5,5,4,3,4,4,3,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+580,Male,17,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,4,5,4,5,3,1,2,2,5,Outdoor Activities
+581,Male,22,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,No,0,8,4,4,5,5,3,5,4,3,3,Online Entertainment
+582,Male,19,FAST,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,4,4,5,5,5,1,4,4,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+583,Male,20,PU,Undergraduate,Data Science,1st year,3.25,On-Campus,No,3,6,5,4,3,3,1,4,4,3,4,"Religious Activities, Sports and Fitness"
+584,Male,21,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,8,4,2,5,5,2,4,3,3,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+585,Male,22,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,7,8,3,2,4,5,3,4,4,3,5,"Religious Activities, Sports and Fitness, Social Connections"
+586,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,8,3,4,1,3,1,1,5,5,2,Religious Activities
+587,Male,21,FAST,Undergraduate,Information Technology,2nd year,3.25,Off-Campus,No,3,6,1,4,5,5,4,3,4,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+588,Male,22,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,6,6,5,4,5,5,1,5,4,3,3,Online Entertainment
+589,Male,18,PU,Undergraduate,Data Science,3rd year,2.25,Off-Campus,No,6,6,3,5,4,3,2,3,4,5,4,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+590,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,4,5,1,1,3,3,2,4,5,"Religious Activities, Online Entertainment"
+591,Male,21,KUST,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,7,6,5,4,4,1,4,5,2,3,3,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+592,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,3,6,3,5,5,5,3,1,5,2,2,"Religious Activities, Online Entertainment, Outdoor Activities"
+593,Female,18,UET,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,1,4,4,3,3,2,3,3,5,Online Entertainment
+594,Male,18,COMSATS,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,0,6,3,3,3,5,2,5,4,4,4,"Religious Activities, Online Entertainment, Outdoor Activities"
+595,Male,22,UOL,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,6,6,1,5,2,5,2,5,2,1,2,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+596,Male,22,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,7,8,3,4,5,3,3,1,2,4,5,"Social Connections, Sleep"
+597,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,6,6,5,4,5,5,2,4,4,5,1,Online Entertainment
+598,Male,19,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,No,0,6,5,4,4,1,2,5,4,1,3,Outdoor Activities
+599,Male,20,PU,Undergraduate,Computer Science,4th year,3.75,On-Campus,No,3,8,1,4,5,1,3,2,3,5,1,Sleep
+600,Male,21,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,6,4,4,5,4,1,3,3,4,5,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+601,Female,20,PU,Undergraduate,Computer Science,3rd year,1.75,Off-Campus,No,0,8,4,4,4,3,3,5,5,5,5,"Religious Activities, Social Connections"
+602,Female,20,UET,Undergraduate,Data Science,3rd year,3.75,On-Campus,Yes,3,6,5,4,5,1,2,5,1,4,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+603,Male,20,PU,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,No,0,6,5,5,4,5,1,1,3,5,1,Sleep
+604,Male,20,PU,Undergraduate,Computer Science,3rd year,1.75,Off-Campus,No,3,8,4,3,1,2,3,5,3,4,2,"Religious Activities, Sports and Fitness"
+605,Male,18,FAST,Undergraduate,Computer Science,2nd year,0.0,Off-Campus,No,6,6,4,3,3,4,1,5,3,4,2,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+606,Female,23,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,0,6,3,5,3,5,2,4,5,1,5,"Online Entertainment, Sleep"
+607,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,0,8,5,2,4,4,2,4,4,5,3,Outdoor Activities
+608,Female,18,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,7,6,4,5,5,3,5,1,2,3,5,"Online Entertainment, Outdoor Activities, Sleep"
+609,Male,18,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,8,3,4,3,1,3,2,1,4,4,Online Entertainment
+610,Female,19,PU,Undergraduate,Computer Science,4th year,3.75,On-Campus,No,0,6,3,3,4,4,4,4,4,3,4,Online Entertainment
+611,Female,19,PU,Undergraduate,Information Technology,1st year,2.75,Off-Campus,Yes,0,6,4,5,5,3,1,3,1,2,5,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+612,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,8,5,4,3,4,3,4,2,4,4,"Creative Outlets, Social Connections, Online Entertainment"
+613,Male,18,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,0,6,4,4,4,3,3,4,3,3,4,Sleep
+614,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,6,6,5,3,1,4,2,5,5,4,1,"Religious Activities, Social Connections"
+615,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,0,8,3,4,5,2,4,1,5,1,5,Religious Activities
+616,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,4,4,5,5,4,2,3,4,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+617,Male,18,KUST,Undergraduate,Data Science,1st year,3.75,On-Campus,No,3,8,3,5,4,4,2,5,2,2,4,"Social Connections, Outdoor Activities"
+618,Male,17,PU,Undergraduate,Information Technology,1st year,1.75,Off-Campus,Yes,0,6,3,5,3,2,1,5,1,5,2,Sports and Fitness
+619,Male,19,UET,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,0,6,5,5,4,3,1,5,4,2,2,"Religious Activities, Sports and Fitness"
+620,Male,21,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,7,6,4,5,3,5,3,2,1,5,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+621,Male,18,COMSATS,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,6,4,4,3,1,3,5,3,5,3,Outdoor Activities
+622,Male,20,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,No,3,6,5,3,4,1,2,3,3,1,1,"Online Entertainment, Sleep"
+623,Female,17,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,5,3,4,5,3,5,3,5,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+624,Male,20,PU,Postgraduate,Data Science,4th year,3.75,On-Campus,No,0,8,5,4,3,1,1,3,5,5,5,"Religious Activities, Online Entertainment"
+625,Male,20,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,3,6,4,4,5,3,3,3,3,5,1,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+626,Male,20,UET,Undergraduate,Data Science,1st year,2.75,On-Campus,No,3,8,3,2,3,3,4,2,5,1,1,Religious Activities
+627,Male,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,Yes,3,8,4,5,4,1,4,3,3,3,5,Sleep
+628,Male,19,PU,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,Yes,3,6,5,4,3,1,3,3,3,3,5,"Religious Activities, Creative Outlets, Social Connections"
+629,Male,20,UET,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,8,5,4,4,3,1,4,2,4,4,Sleep
+630,Male,21,VU,Undergraduate,Software Engineering,3rd year,2.25,Off-Campus,Yes,0,8,5,4,5,1,3,3,2,1,3,"Social Connections, Sleep"
+631,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,5,3,4,5,2,4,2,3,2,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+632,Male,20,UET,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,3,8,5,4,5,3,5,4,4,3,1,Sleep
+633,Male,19,COMSATS,Undergraduate,Information Technology,2nd year,2.75,Off-Campus,No,7,8,3,5,5,3,4,3,3,2,4,"Religious Activities, Sports and Fitness"
+634,Male,19,PU,Undergraduate,Information Technology,4th year,3.25,Off-Campus,No,7,6,4,2,2,5,1,5,4,3,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+635,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,3,5,2,2,1,5,5,3,1,Religious Activities
+636,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,8,5,4,5,5,3,2,2,3,5,"Religious Activities, Social Connections, Online Entertainment"
+637,Female,19,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,6,4,4,5,2,1,2,3,3,5,Social Connections
+638,Male,19,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,8,4,4,3,5,3,5,2,1,4,Religious Activities
+639,Male,21,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,7,8,4,3,3,4,5,4,2,4,4,Online Entertainment
+640,Female,21,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,0,8,5,4,1,5,3,2,5,1,2,"Social Connections, Outdoor Activities"
+641,Male,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,6,5,4,4,1,3,5,2,3,5,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+642,Male,20,PU,Undergraduate,Data Science,2nd year,2.75,Off-Campus,No,3,6,4,4,3,4,3,2,4,4,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+643,Male,18,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,4,5,5,2,3,2,2,3,2,"Religious Activities, Sports and Fitness, Sleep"
+644,Female,19,COMSATS,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,6,8,4,4,3,4,4,2,3,3,1,"Religious Activities, Social Connections, Sleep"
+645,Male,20,PU,Postgraduate,Computer Science,3rd year,3.25,On-Campus,No,3,4,5,3,4,5,1,3,2,1,5,Outdoor Activities
+646,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,On-Campus,No,0,8,5,4,3,5,4,2,2,4,5,Online Entertainment
+647,Male,18,PU,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,6,6,3,4,4,3,2,2,2,2,2,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+648,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,6,5,4,5,4,3,5,3,5,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+649,Female,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,3,3,3,1,4,1,5,5,4,Online Entertainment
+650,Female,18,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,5,5,4,4,2,3,4,1,3,Religious Activities
+651,Male,21,PU,Undergraduate,Software Engineering,1st year,2.25,Off-Campus,No,0,6,4,5,5,4,3,5,2,3,1,Sleep
+652,Female,26,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,5,3,5,5,5,5,2,3,5,"Religious Activities, Online Entertainment, Outdoor Activities"
+653,Male,20,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,4,4,5,2,5,5,5,4,"Social Connections, Sleep"
+654,Female,20,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,5,4,4,5,4,1,2,3,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+655,Male,26,PU,Undergraduate,Computer Science,4th year,3.25,On-Campus,Yes,0,8,5,5,3,4,4,5,4,5,1,"Online Entertainment, Outdoor Activities, Sleep"
+656,Female,20,COMSATS,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,3,6,2,4,2,5,2,3,2,3,1,"Religious Activities, Sports and Fitness, Social Connections"
+657,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,Yes,0,6,4,4,3,3,2,5,3,3,3,Sleep
+658,Male,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,3,6,5,3,5,5,1,4,4,3,3,Sports and Fitness
+659,Male,23,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,0,6,4,5,5,4,3,4,4,4,1,"Religious Activities, Sports and Fitness, Social Connections"
+660,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,3,3,5,2,1,4,3,1,3,Online Entertainment
+661,Male,20,PU,Undergraduate,Information Technology,4th year,2.75,Off-Campus,No,7,6,5,3,5,3,2,5,5,5,2,"Religious Activities, Social Connections, Online Entertainment"
+662,Male,20,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,0,6,1,4,3,2,3,3,1,2,3,"Religious Activities, Sports and Fitness, Social Connections"
+663,Male,20,PU,Undergraduate,Information Technology,3rd year,1.75,Off-Campus,No,0,8,4,4,4,2,3,2,5,3,1,Outdoor Activities
+664,Female,18,FAST,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,Yes,3,6,5,4,5,4,1,4,4,3,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+665,Male,19,PU,Undergraduate,Data Science,3rd year,0.0,Off-Campus,No,0,6,4,3,4,5,2,2,2,3,5,Social Connections
+666,Male,19,PU,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,3,8,4,4,4,4,3,5,1,3,2,"Religious Activities, Creative Outlets, Social Connections"
+667,Male,26,COMSATS,Undergraduate,Information Technology,3rd year,0.0,Off-Campus,No,0,8,3,5,2,5,3,4,5,1,4,"Social Connections, Online Entertainment"
+668,Male,19,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,6,6,5,3,5,3,1,5,2,3,1,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+669,Female,20,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,Yes,0,8,5,4,5,5,3,2,4,5,3,Sports and Fitness
+670,Male,18,PU,Undergraduate,Computer Science,4th year,3.75,On-Campus,No,0,8,4,3,5,1,3,5,2,5,2,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+671,Male,22,PU,Undergraduate,Computer Science,1st year,2.25,Off-Campus,Yes,0,6,5,3,3,1,1,5,2,3,5,"Religious Activities, Social Connections, Sleep"
+672,Male,19,PU,Undergraduate,Information Technology,1st year,3.75,On-Campus,No,0,6,4,3,1,5,1,2,4,3,1,"Religious Activities, Social Connections, Online Entertainment"
+673,Male,21,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,6,8,3,4,4,4,4,5,1,4,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+674,Female,19,PU,Undergraduate,Software Engineering,2nd year,3.75,On-Campus,Yes,3,6,1,5,5,2,5,5,3,2,3,"Religious Activities, Sports and Fitness, Online Entertainment"
+675,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,6,4,3,4,2,2,5,4,2,3,"Religious Activities, Social Connections"
+676,Male,18,KUST,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,7,4,3,4,4,5,3,3,2,1,2,Sports and Fitness
+677,Male,17,UET,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,7,8,5,5,5,4,2,2,4,3,5,"Religious Activities, Outdoor Activities"
+678,Male,21,UET,Undergraduate,Data Science,3rd year,3.25,On-Campus,Yes,0,8,3,2,3,5,2,1,4,1,4,Religious Activities
+679,Male,21,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,8,5,5,3,5,3,3,4,1,1,Creative Outlets
+680,Female,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,5,2,5,1,2,4,2,1,3,"Religious Activities, Creative Outlets"
+681,Female,18,COMSATS,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,3,8,4,5,4,1,3,5,5,3,5,"Online Entertainment, Outdoor Activities, Sleep"
+682,Female,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,8,4,4,5,5,1,1,3,5,2,Religious Activities
+683,Male,20,FAST,Undergraduate,Software Engineering,3rd year,3.75,Off-Campus,Yes,6,6,4,4,4,3,3,3,3,5,4,"Religious Activities, Social Connections, Online Entertainment"
+684,Male,21,PU,Undergraduate,Software Engineering,3rd year,2.75,Off-Campus,No,3,8,4,5,2,5,3,3,3,3,5,"Social Connections, Online Entertainment"
+685,Male,18,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,0,4,5,4,3,5,1,3,4,5,4,Sports and Fitness
+686,Male,21,COMSATS,Undergraduate,Information Technology,2nd year,3.25,On-Campus,Yes,3,6,4,3,2,4,3,3,5,3,3,Creative Outlets
+687,Male,19,PU,Undergraduate,Computer Science,4th year,2.75,On-Campus,Yes,3,6,5,4,4,5,3,1,1,5,5,"Online Entertainment, Sleep"
+688,Female,20,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,3,3,5,5,1,3,4,5,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+689,Male,22,COMSATS,Undergraduate,Computer Science,1st year,2.75,On-Campus,Yes,0,6,4,3,5,5,2,2,4,5,3,Online Entertainment
+690,Male,22,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,1,4,4,4,1,2,3,2,3,"Religious Activities, Creative Outlets, Social Connections"
+691,Male,18,FAST,Undergraduate,Computer Science,4th year,2.75,On-Campus,No,0,6,3,5,5,3,4,3,4,3,4,"Religious Activities, Sports and Fitness, Sleep"
+692,Male,20,PU,Undergraduate,Information Technology,1st year,3.25,Off-Campus,Yes,0,6,5,5,3,5,1,3,5,4,5,Sleep
+693,Male,18,UET,Undergraduate,Computer Science,2nd year,2.25,Off-Campus,No,0,6,4,4,2,5,3,5,4,2,2,"Social Connections, Outdoor Activities"
+694,Male,22,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,3,6,5,2,5,3,3,5,3,1,3,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+695,Male,20,UET,Undergraduate,Data Science,2nd year,0.0,Off-Campus,No,7,6,4,2,5,4,2,3,1,4,2,"Social Connections, Sleep"
+696,Male,18,KUST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,7,8,5,4,2,1,2,2,5,4,2,"Religious Activities, Sports and Fitness, Sleep"
+697,Male,20,PU,Undergraduate,Software Engineering,4th year,3.75,Off-Campus,No,7,8,3,3,3,5,3,4,5,4,3,"Social Connections, Online Entertainment, Sleep"
+698,Male,20,FAST,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,Yes,0,4,3,4,5,5,5,3,4,3,3,Online Entertainment
+699,Male,17,PU,Undergraduate,Data Science,3rd year,2.25,Off-Campus,No,3,4,4,3,5,5,3,3,4,3,5,"Religious Activities, Social Connections, Online Entertainment"
+700,Male,20,NUST,Undergraduate,Computer Science,4th year,0.0,Off-Campus,Yes,0,6,3,3,4,3,2,1,2,3,1,Outdoor Activities
+701,Male,19,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,3,6,5,5,5,5,4,3,3,4,4,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+702,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,0,6,3,4,5,5,3,3,4,3,3,Outdoor Activities
+703,Male,19,COMSATS,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,8,3,4,2,5,1,2,1,1,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+704,Male,20,FAST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,0,6,4,4,4,4,1,5,3,1,2,Creative Outlets
+705,Male,21,UET,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,3,4,5,1,2,3,4,1,1,"Religious Activities, Online Entertainment, Outdoor Activities"
+706,Male,17,NUST,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,8,4,5,4,5,1,1,3,1,2,"Religious Activities, Social Connections, Online Entertainment"
+707,Male,20,PU,Undergraduate,Data Science,1st year,2.25,Off-Campus,No,0,6,5,4,5,4,3,5,1,2,5,"Religious Activities, Sports and Fitness, Social Connections"
+708,Male,19,PU,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,0,6,5,5,3,2,3,1,2,3,5,Online Entertainment
+709,Female,19,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,4,5,5,2,5,1,4,1,5,2,"Religious Activities, Sports and Fitness, Social Connections"
+710,Female,21,PU,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,6,4,5,4,4,3,5,4,4,4,Sports and Fitness
+711,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,3,3,2,5,1,1,2,4,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+712,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,0,8,4,5,3,1,2,5,2,2,3,"Religious Activities, Sports and Fitness"
+713,Male,19,UET,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,3,6,2,3,5,3,1,3,2,3,5,Online Entertainment
+714,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,4,4,4,3,3,3,3,2,4,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+715,Male,19,COMSATS,Undergraduate,Information Technology,3rd year,2.75,Off-Campus,No,6,6,4,5,4,4,2,3,1,3,4,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+716,Male,18,FAST,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,5,4,3,1,3,4,3,4,5,Sports and Fitness
+717,Male,21,PU,Undergraduate,Data Science,1st year,3.25,On-Campus,Yes,0,6,3,2,2,5,1,5,5,4,2,Social Connections
+718,Male,20,PU,Undergraduate,Software Engineering,2nd year,3.25,Off-Campus,No,7,6,5,3,4,4,5,5,2,3,5,"Religious Activities, Social Connections"
+719,Male,22,FAST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,5,3,4,3,5,4,5,3,Outdoor Activities
+720,Male,17,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,6,6,5,4,5,4,2,2,1,2,5,Social Connections
+721,Male,22,PU,Undergraduate,Information Technology,1st year,0.0,Off-Campus,No,3,6,5,4,5,4,4,2,4,4,1,Online Entertainment
+722,Male,20,VU,Undergraduate,Information Technology,4th year,2.75,Off-Campus,No,0,6,5,2,4,1,3,3,1,2,1,"Religious Activities, Social Connections"
+723,Male,20,UMT,Undergraduate,Data Science,1st year,0.0,Off-Campus,No,7,6,3,4,4,5,2,3,4,1,3,"Creative Outlets, Social Connections, Online Entertainment"
+724,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,0,6,3,5,5,3,2,1,4,5,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+725,Male,20,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,6,8,5,4,5,1,3,3,5,4,5,Religious Activities
+726,Male,26,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,Yes,7,6,5,4,4,1,2,3,5,4,4,"Religious Activities, Sports and Fitness, Sleep"
+727,Male,22,COMSATS,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,6,4,4,3,5,2,3,4,5,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+728,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,3,3,4,2,3,3,4,1,4,"Religious Activities, Outdoor Activities"
+729,Male,21,COMSATS,Undergraduate,Computer Science,2nd year,3.75,On-Campus,No,3,4,4,5,3,5,2,3,5,4,1,Religious Activities
+730,Male,17,UET,Undergraduate,Data Science,3rd year,1.75,Off-Campus,No,0,6,4,4,3,4,4,2,2,5,3,Religious Activities
+731,Male,20,UET,Undergraduate,Data Science,3rd year,0.0,Off-Campus,No,3,8,2,4,4,4,1,3,2,4,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+732,Male,20,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,8,5,5,5,5,2,3,1,4,2,Religious Activities
+733,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,On-Campus,Yes,6,8,4,3,4,4,4,2,2,3,5,Online Entertainment
+734,Female,26,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,3,5,2,5,3,1,4,4,3,"Online Entertainment, Sleep"
+735,Male,21,PU,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,0,8,5,5,4,4,1,3,2,3,1,Sports and Fitness
+736,Male,18,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,7,6,4,3,2,1,4,1,5,5,2,"Social Connections, Sleep"
+737,Male,18,PU,Undergraduate,Software Engineering,3rd year,3.25,Off-Campus,No,6,8,4,4,1,5,3,5,4,4,5,"Online Entertainment, Sleep"
+738,Female,20,PU,Undergraduate,Computer Science,4th year,3.75,On-Campus,No,6,8,5,4,5,4,1,5,3,4,2,"Creative Outlets, Social Connections, Online Entertainment"
+739,Male,19,COMSATS,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,6,3,5,3,3,2,2,2,4,5,Social Connections
+740,Male,21,PU,Undergraduate,Information Technology,2nd year,3.25,On-Campus,No,0,6,4,5,5,5,1,1,3,3,2,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+741,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,5,4,5,5,3,2,3,3,3,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+742,Male,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,0,6,4,4,4,5,2,1,4,3,5,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+743,Female,20,PU,Undergraduate,Software Engineering,2nd year,0.0,Off-Campus,Yes,7,6,5,4,4,5,3,3,2,3,2,"Religious Activities, Creative Outlets, Social Connections"
+744,Male,20,VU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,4,5,4,4,3,2,1,4,4,"Social Connections, Outdoor Activities"
+745,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,4,5,3,3,1,4,3,3,1,Social Connections
+746,Male,20,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,0,8,4,4,5,5,5,5,4,2,5,Sports and Fitness
+747,Female,23,PU,Undergraduate,Computer Science,4th year,0.0,Off-Campus,Yes,7,6,4,5,4,5,2,1,4,5,5,Nothing
+748,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,7,6,4,4,3,4,1,5,3,1,5,"Religious Activities, Social Connections"
+749,Female,20,FAST,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,5,4,1,5,5,3,3,3,5,"Religious Activities, Creative Outlets"
+750,Male,21,UET,Undergraduate,Data Science,1st year,0.0,Off-Campus,Yes,3,6,4,3,5,3,1,2,2,1,5,Online Entertainment
+751,Male,20,PU,Undergraduate,Data Science,2nd year,0.0,Off-Campus,Yes,0,6,4,2,5,5,1,3,3,1,4,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+752,Male,19,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,Yes,3,8,3,3,4,1,4,2,3,5,2,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+753,Male,19,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,3,6,4,5,3,5,5,5,4,2,3,Online Entertainment
+754,Female,18,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,8,5,4,4,5,1,5,1,5,4,"Religious Activities, Creative Outlets"
+755,Male,20,UMT,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,6,6,5,5,5,5,2,5,4,5,2,"Religious Activities, Social Connections, Online Entertainment"
+756,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,5,5,5,5,3,5,4,5,3,"Religious Activities, Social Connections, Online Entertainment"
+757,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,0,8,5,4,4,3,3,3,3,4,1,Sports and Fitness
+758,Male,20,PU,Undergraduate,Computer Science,1st year,2.25,On-Campus,No,7,8,4,3,3,4,1,2,1,3,3,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+759,Female,26,PU,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,No,6,6,4,4,4,5,5,1,2,5,2,"Creative Outlets, Social Connections, Online Entertainment"
+760,Male,18,PU,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,0,8,4,4,3,3,3,4,4,3,2,Sports and Fitness
+761,Male,26,UET,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,3,4,4,3,3,3,2,4,4,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+762,Male,20,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,4,4,3,3,5,3,4,2,4,4,"Religious Activities, Social Connections"
+763,Female,19,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,0,6,4,4,5,5,4,1,2,4,2,Nothing
+764,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,8,4,2,3,1,2,5,3,1,2,Online Entertainment
+765,Male,22,COMSATS,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,3,3,4,5,1,2,1,3,3,Online Entertainment
+766,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,7,6,5,4,4,2,3,3,5,3,4,"Social Connections, Outdoor Activities"
+767,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,On-Campus,Yes,0,6,5,3,5,5,4,5,2,3,5,Outdoor Activities
+768,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,0,8,4,5,4,3,2,3,2,3,3,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+769,Male,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,0,6,4,3,4,5,3,1,2,2,5,"Social Connections, Sleep"
+770,Male,20,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,8,1,3,4,3,3,1,3,4,3,Online Entertainment
+771,Male,21,PU,Undergraduate,Computer Science,4th year,3.25,On-Campus,Yes,6,6,1,4,2,5,4,3,2,4,3,"Social Connections, Online Entertainment"
+772,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,4,4,3,3,1,4,3,5,4,"Religious Activities, Social Connections"
+773,Male,22,FAST,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,No,0,8,3,5,4,4,3,1,2,5,4,Religious Activities
+774,Female,20,KUST,Undergraduate,Computer Science,4th year,2.75,Off-Campus,Yes,0,8,4,3,4,1,3,3,1,3,1,"Religious Activities, Sports and Fitness, Online Entertainment"
+775,Female,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,4,5,5,4,1,2,4,2,1,Outdoor Activities
+776,Male,17,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,8,5,5,3,4,5,4,3,3,4,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+777,Female,20,PU,Undergraduate,Information Technology,3rd year,0.0,Off-Campus,No,0,6,5,3,5,3,1,4,1,4,1,Religious Activities
+778,Male,26,PU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,3,8,3,4,5,1,3,1,4,5,3,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+779,Male,18,PU,Undergraduate,Information Technology,2nd year,3.75,Off-Campus,No,3,6,4,4,3,4,4,3,2,5,4,Sports and Fitness
+780,Male,20,PU,Undergraduate,Information Technology,2nd year,3.25,Off-Campus,No,0,4,5,5,5,2,3,1,4,5,3,"Online Entertainment, Sleep"
+781,Male,17,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,3,6,3,4,5,4,2,3,3,4,1,"Religious Activities, Social Connections"
+782,Male,19,PU,Undergraduate,Software Engineering,1st year,0.0,Off-Campus,No,0,6,4,4,4,3,5,3,3,3,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+783,Male,26,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,5,4,3,5,1,5,3,4,1,Social Connections
+784,Male,22,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,8,5,4,2,5,4,5,2,3,2,Outdoor Activities
+785,Female,23,KUST,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,4,5,3,5,3,2,4,1,2,Sleep
+786,Male,17,PU,Postgraduate,Computer Science,2nd year,2.75,Off-Campus,Yes,3,6,1,3,2,2,2,5,3,3,4,"Social Connections, Online Entertainment, Sleep"
+787,Male,17,PU,Postgraduate,Data Science,4th year,2.75,Off-Campus,No,7,8,5,3,3,5,3,5,3,5,2,Sports and Fitness
+788,Female,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,0,8,3,4,5,4,2,5,3,1,5,Sports and Fitness
+789,Male,21,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,Yes,0,8,5,2,4,4,3,2,5,4,2,"Religious Activities, Social Connections"
+790,Male,20,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,0,6,5,4,5,5,1,4,5,4,2,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+791,Female,20,PU,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,Yes,0,6,4,5,1,4,2,4,2,5,4,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+792,Male,17,UMT,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,0,6,4,5,4,4,2,2,4,4,2,Online Entertainment
+793,Female,20,PU,Undergraduate,Computer Science,1st year,2.75,On-Campus,No,3,4,3,3,3,5,2,4,3,2,2,"Religious Activities, Social Connections, Online Entertainment"
+794,Male,22,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,5,5,3,3,3,1,4,4,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+795,Male,19,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,Yes,7,8,1,4,1,5,1,3,4,5,3,"Religious Activities, Social Connections"
+796,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,3,8,5,3,2,3,4,5,4,1,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+797,Male,20,FAST,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,6,8,3,4,3,5,1,3,5,1,5,Sports and Fitness
+798,Male,17,UET,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,2,5,4,3,4,5,5,4,Sleep
+799,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,Yes,0,4,3,5,4,2,4,3,3,5,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+800,Male,20,FAST,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,3,6,3,3,5,2,2,3,4,5,1,Sleep
+801,Male,20,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,3,8,3,3,1,2,4,4,4,4,1,"Religious Activities, Social Connections, Sleep"
+802,Male,20,UET,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,6,6,5,4,5,4,3,5,5,4,4,Social Connections
+803,Male,18,UMT,Undergraduate,Computer Science,2nd year,2.25,Off-Campus,No,3,6,5,3,5,2,3,3,3,5,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+804,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,8,5,3,5,4,1,1,3,3,4,"Creative Outlets, Social Connections, Online Entertainment"
+805,Male,22,PU,Undergraduate,Computer Science,2nd year,2.25,Off-Campus,No,6,6,5,3,3,4,1,4,2,5,2,"Religious Activities, Sports and Fitness, Social Connections"
+806,Male,20,COMSATS,Undergraduate,Data Science,3rd year,0.0,On-Campus,No,7,6,3,4,1,1,4,4,1,5,3,"Social Connections, Sleep"
+807,Male,22,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,3,6,4,4,5,4,3,5,5,5,1,Outdoor Activities
+808,Female,19,UMT,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,8,5,3,5,5,3,5,5,5,3,Religious Activities
+809,Female,18,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,8,3,4,4,2,1,3,2,4,5,Sports and Fitness
+810,Male,20,UOL,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,0,8,4,4,4,2,1,3,4,3,1,Religious Activities
+811,Male,21,COMSATS,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,4,3,3,4,2,2,3,5,1,"Religious Activities, Sports and Fitness, Sleep"
+812,Male,19,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,5,4,5,5,4,4,5,1,1,Online Entertainment
+813,Male,20,UET,Undergraduate,Data Science,2nd year,3.25,Off-Campus,Yes,0,8,5,5,4,5,3,3,1,5,2,Creative Outlets
+814,Male,19,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,8,5,4,4,5,4,3,4,5,3,Sports and Fitness
+815,Male,21,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,No,3,6,3,4,3,3,3,1,1,4,3,"Social Connections, Online Entertainment"
+816,Male,23,UMT,Undergraduate,Data Science,4th year,3.75,Off-Campus,Yes,6,6,1,3,5,5,1,2,2,5,4,"Religious Activities, Online Entertainment"
+817,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,8,5,4,2,4,4,5,2,5,2,Sports and Fitness
+818,Female,20,VU,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,7,4,5,5,5,3,3,4,2,1,3,"Social Connections, Outdoor Activities"
+819,Male,19,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,4,4,5,1,3,4,3,1,Outdoor Activities
+820,Male,22,COMSATS,Undergraduate,Computer Science,3rd year,0.0,Off-Campus,No,3,6,5,4,5,1,5,5,3,4,4,Social Connections
+821,Female,20,UET,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,3,6,4,4,5,5,1,4,4,4,5,Nothing
+822,Male,19,PU,Postgraduate,Computer Science,4th year,2.75,Off-Campus,No,3,6,1,5,1,4,2,2,1,2,5,"Online Entertainment, Sleep"
+823,Female,26,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,4,4,2,1,4,4,5,1,"Religious Activities, Creative Outlets"
+824,Male,21,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,Yes,3,6,3,5,2,5,4,1,1,3,1,Outdoor Activities
+825,Female,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,6,3,4,4,5,1,1,3,3,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+826,Male,20,UET,Undergraduate,Data Science,3rd year,3.75,Off-Campus,Yes,0,6,4,3,4,5,3,4,5,5,4,Online Entertainment
+827,Female,23,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,0,8,4,4,5,2,2,2,3,5,5,"Religious Activities, Sports and Fitness"
+828,Male,17,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,3,8,5,4,3,5,2,2,2,3,2,Religious Activities
+829,Male,21,NUST,Undergraduate,Software Engineering,2nd year,3.75,Off-Campus,No,0,8,4,5,2,4,3,3,4,5,2,Online Entertainment
+830,Male,18,PU,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,Yes,0,6,3,5,3,5,3,2,2,5,5,"Creative Outlets, Social Connections, Online Entertainment"
+831,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,0,6,5,4,1,1,2,5,2,5,4,Online Entertainment
+832,Male,20,PU,Undergraduate,Data Science,3rd year,0.0,Off-Campus,No,3,8,3,4,5,4,5,1,4,1,5,Sleep
+833,Male,20,PU,Undergraduate,Data Science,4th year,2.75,Off-Campus,No,3,6,3,3,1,5,3,3,2,2,3,Creative Outlets
+834,Male,22,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,4,4,4,5,5,1,2,2,2,5,Sports and Fitness
+835,Male,18,PU,Undergraduate,Software Engineering,2nd year,3.75,Off-Campus,No,3,6,5,3,4,2,3,4,5,4,4,"Social Connections, Online Entertainment, Sleep"
+836,Male,18,VU,Undergraduate,Data Science,2nd year,3.25,Off-Campus,No,0,6,5,4,3,5,1,3,5,5,1,Sleep
+837,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,7,6,3,3,4,3,2,1,5,4,5,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+838,Female,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,6,5,3,5,2,3,3,4,5,1,Sleep
+839,Male,21,PU,Undergraduate,Computer Science,4th year,3.25,On-Campus,No,7,6,3,3,3,5,1,3,5,2,5,Outdoor Activities
+840,Male,19,NUST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,7,4,4,4,4,5,1,5,4,2,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+841,Female,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,4,4,4,4,2,2,4,5,1,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+842,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,5,4,4,3,1,4,5,2,3,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+843,Male,22,PU,Undergraduate,Data Science,4th year,0.0,Off-Campus,No,3,8,5,4,5,5,2,4,4,5,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+844,Male,26,UET,Undergraduate,Computer Science,2nd year,3.75,Off-Campus,No,3,6,4,3,4,1,3,2,4,2,5,"Religious Activities, Creative Outlets"
+845,Male,20,UET,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,8,4,2,4,1,2,1,4,5,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+846,Male,21,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,4,4,5,3,5,3,4,4,2,"Creative Outlets, Social Connections, Online Entertainment"
+847,Male,18,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,3,6,4,3,4,5,4,2,3,3,4,"Religious Activities, Social Connections, Online Entertainment"
+848,Male,18,COMSATS,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,6,4,4,5,5,2,5,4,3,1,Sports and Fitness
+849,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,6,6,5,5,5,1,4,5,3,4,4,"Religious Activities, Social Connections, Online Entertainment"
+850,Female,20,UET,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,7,6,4,4,3,1,2,4,4,3,5,Sleep
+851,Male,19,PU,Undergraduate,Computer Science,1st year,3.75,On-Campus,No,0,6,5,3,5,5,4,1,2,3,1,Religious Activities
+852,Male,19,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,6,6,4,3,1,3,3,2,2,5,1,Online Entertainment
+853,Male,19,PU,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,0,6,5,4,3,5,2,1,3,4,1,Religious Activities
+854,Male,18,COMSATS,Undergraduate,Information Technology,1st year,3.75,On-Campus,Yes,7,6,2,3,5,4,4,5,3,5,3,Sleep
+855,Female,18,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,5,2,5,4,1,4,2,5,2,"Religious Activities, Creative Outlets, Social Connections"
+856,Male,21,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,6,4,5,4,4,1,5,1,1,2,"Religious Activities, Sports and Fitness, Social Connections"
+857,Male,20,UET,Undergraduate,Data Science,1st year,0.0,Off-Campus,Yes,3,8,4,4,5,5,1,3,4,4,1,"Religious Activities, Sports and Fitness"
+858,Male,20,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,No,3,6,4,4,2,3,3,3,1,4,4,Sleep
+859,Female,20,PU,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,3,6,4,4,3,5,4,3,5,3,2,Online Entertainment
+860,Female,20,UET,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,7,4,5,5,5,5,2,5,4,4,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+861,Male,19,UET,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,8,5,3,4,3,2,5,1,5,4,"Religious Activities, Online Entertainment"
+862,Female,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,Yes,3,6,4,2,4,2,2,4,3,3,2,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+863,Male,20,PU,Undergraduate,Data Science,4th year,0.0,Off-Campus,Yes,3,8,3,4,4,1,2,3,4,3,3,"Religious Activities, Social Connections, Online Entertainment"
+864,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,3,6,4,2,4,5,5,4,3,5,2,Sports and Fitness
+865,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,6,6,4,5,1,5,4,3,2,1,1,"Religious Activities, Online Entertainment, Outdoor Activities"
+866,Male,21,COMSATS,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,6,8,5,5,5,5,4,2,4,1,2,"Religious Activities, Sleep"
+867,Female,19,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,0,6,5,5,2,5,2,4,2,1,2,Sleep
+868,Female,20,PU,Undergraduate,Software Engineering,2nd year,3.25,Off-Campus,No,3,6,3,2,5,3,3,2,3,3,1,Online Entertainment
+869,Male,20,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,4,4,3,5,3,5,4,1,3,"Online Entertainment, Outdoor Activities, Sleep"
+870,Male,17,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,6,1,3,3,5,3,4,3,2,5,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+871,Male,18,UET,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,6,6,5,5,4,3,4,4,5,3,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+872,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,3,6,4,3,4,5,4,1,4,3,4,"Religious Activities, Online Entertainment"
+873,Female,18,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,5,3,5,3,4,3,2,5,1,"Religious Activities, Social Connections, Online Entertainment"
+874,Male,18,KUST,Undergraduate,Computer Science,2nd year,3.25,Off-Campus,No,0,4,3,3,5,3,2,1,3,3,4,"Religious Activities, Social Connections, Online Entertainment"
+875,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,3,6,3,4,4,3,1,5,3,3,1,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+876,Female,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,6,6,5,4,4,3,3,1,4,3,4,Religious Activities
+877,Female,20,PU,Undergraduate,Data Science,1st year,3.75,On-Campus,Yes,0,6,4,4,4,3,1,3,2,2,4,"Religious Activities, Social Connections"
+878,Male,20,NUST,Postgraduate,Data Science,1st year,2.75,Off-Campus,No,0,4,3,4,5,4,3,2,4,3,5,Outdoor Activities
+879,Male,20,PU,Undergraduate,Data Science,1st year,2.25,On-Campus,No,0,6,2,4,1,1,3,2,3,3,2,Online Entertainment
+880,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,2,5,5,4,5,1,5,5,"Religious Activities, Sports and Fitness, Online Entertainment"
+881,Male,20,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,6,6,4,3,3,5,1,3,4,5,3,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+882,Male,26,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,3,8,4,2,5,4,1,3,5,4,4,Religious Activities
+883,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,0,6,4,4,4,3,3,3,2,5,4,"Online Entertainment, Outdoor Activities, Sleep"
+884,Female,19,PU,Undergraduate,Information Technology,3rd year,2.75,Off-Campus,No,3,8,4,4,4,4,1,2,4,1,4,Social Connections
+885,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,0,6,4,5,4,4,4,5,2,3,4,"Religious Activities, Sports and Fitness, Online Entertainment"
+886,Female,21,PU,Undergraduate,Data Science,1st year,2.75,Off-Campus,No,7,6,5,4,5,5,4,4,5,5,4,Outdoor Activities
+887,Male,22,UMT,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,3,3,4,5,4,2,5,1,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+888,Male,22,COMSATS,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,3,6,4,5,4,4,1,4,3,3,2,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+889,Male,18,COMSATS,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,8,1,4,5,4,3,4,4,3,5,"Religious Activities, Creative Outlets, Social Connections"
+890,Female,19,PU,Undergraduate,Data Science,1st year,3.75,On-Campus,Yes,0,8,5,4,3,1,1,4,4,5,5,Online Entertainment
+891,Male,20,COMSATS,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,4,4,3,5,3,3,4,3,5,Religious Activities
+892,Male,20,FAST,Undergraduate,Data Science,3rd year,3.75,Off-Campus,Yes,0,6,3,3,1,4,1,3,4,3,2,Online Entertainment
+893,Female,22,PU,Undergraduate,Software Engineering,3rd year,3.75,Off-Campus,No,0,8,4,3,4,5,5,5,3,5,5,"Creative Outlets, Social Connections, Online Entertainment"
+894,Male,20,KUST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,7,6,3,3,5,5,1,5,5,2,1,"Religious Activities, Sports and Fitness, Sleep"
+895,Male,21,PU,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,6,6,4,4,5,3,4,2,4,5,1,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+896,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,3,8,5,4,5,4,1,4,2,1,5,Sleep
+897,Male,22,FAST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,Yes,0,8,5,4,2,4,3,5,3,4,2,Online Entertainment
+898,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,4,4,4,4,3,3,4,5,2,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+899,Male,20,PU,Undergraduate,Computer Science,3rd year,0.0,On-Campus,No,7,8,5,4,4,4,4,2,3,2,4,Social Connections
+900,Male,20,FAST,Undergraduate,Information Technology,1st year,3.75,Off-Campus,No,7,6,5,2,4,3,3,1,5,1,2,Outdoor Activities
+901,Male,19,PU,Undergraduate,Computer Science,4th year,2.75,Off-Campus,Yes,0,6,4,4,4,3,1,3,5,3,2,Outdoor Activities
+902,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,3,6,3,5,5,5,5,1,1,4,2,Online Entertainment
+903,Male,22,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,5,5,3,3,4,2,5,3,4,"Religious Activities, Sports and Fitness, Social Connections, Sleep"
+904,Male,19,FAST,Undergraduate,Data Science,1st year,2.75,On-Campus,No,0,6,5,5,5,5,2,3,2,4,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+905,Male,18,PU,Undergraduate,Data Science,3rd year,2.75,On-Campus,No,0,8,3,4,2,5,2,3,4,3,5,"Social Connections, Sleep"
+906,Female,20,PU,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,0,6,5,5,1,4,2,1,2,2,3,Online Entertainment
+907,Male,18,FAST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,7,6,3,5,5,1,3,3,2,4,2,Online Entertainment
+908,Male,17,UET,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,6,5,3,5,1,3,3,1,3,3,"Religious Activities, Social Connections, Online Entertainment"
+909,Male,19,FAST,Undergraduate,Computer Science,4th year,3.75,Off-Campus,No,0,6,5,4,4,5,1,4,3,5,3,"Religious Activities, Social Connections, Online Entertainment"
+910,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,4,4,4,4,5,5,3,3,2,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+911,Male,21,KUST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,6,6,5,4,4,1,1,4,2,5,2,Outdoor Activities
+912,Male,20,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,3,8,5,4,5,1,3,2,4,5,2,Sleep
+913,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,On-Campus,Yes,7,8,5,3,5,5,1,5,4,3,1,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+914,Male,22,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,5,4,4,5,2,4,5,5,3,Online Entertainment
+915,Male,20,PU,Undergraduate,Information Technology,3rd year,3.25,On-Campus,No,3,6,5,4,3,5,1,1,1,4,1,"Religious Activities, Social Connections"
+916,Male,20,PU,Undergraduate,Information Technology,3rd year,2.75,On-Campus,No,6,6,5,4,4,5,4,3,4,4,5,Sports and Fitness
+917,Male,19,PU,Undergraduate,Computer Science,3rd year,2.75,On-Campus,No,0,8,5,3,4,2,3,2,2,2,3,"Religious Activities, Creative Outlets"
+918,Male,19,PU,Undergraduate,Computer Science,1st year,0.0,Off-Campus,No,0,8,4,2,4,3,5,5,3,2,2,"Religious Activities, Creative Outlets, Social Connections"
+919,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,Yes,6,6,4,4,4,4,3,3,2,1,5,Sleep
+920,Male,18,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,4,5,5,4,4,4,4,4,5,4,"Sports and Fitness, Creative Outlets, Online Entertainment, Outdoor Activities"
+921,Male,20,PU,Undergraduate,Information Technology,1st year,3.75,Off-Campus,Yes,6,6,3,4,3,5,1,2,5,4,3,Sports and Fitness
+922,Female,20,PU,Undergraduate,Information Technology,3rd year,0.0,Off-Campus,No,0,6,2,5,4,4,4,3,4,2,5,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities"
+923,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,0,6,1,4,5,3,5,2,3,4,4,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+924,Male,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,5,5,1,1,1,3,4,4,2,Sports and Fitness
+925,Male,22,KUST,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,6,6,3,4,5,4,5,1,2,2,3,Sports and Fitness
+926,Male,19,PU,Undergraduate,Data Science,3rd year,3.75,On-Campus,Yes,6,8,5,3,4,5,2,4,2,3,4,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+927,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,4,5,4,5,3,3,2,3,1,Sleep
+928,Male,20,PU,Postgraduate,Data Science,4th year,3.75,Off-Campus,No,3,6,4,4,4,5,4,2,2,3,2,Online Entertainment
+929,Male,20,PU,Undergraduate,Software Engineering,2nd year,2.75,Off-Campus,No,7,6,5,4,1,4,2,4,3,1,3,Sleep
+930,Male,22,UET,Undergraduate,Data Science,3rd year,2.75,Off-Campus,Yes,3,8,4,3,4,5,3,3,3,5,5,"Religious Activities, Sports and Fitness, Sleep"
+931,Male,19,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,8,5,5,5,4,1,4,2,4,3,"Religious Activities, Sports and Fitness, Outdoor Activities"
+932,Male,19,UOL,Undergraduate,Computer Science,1st year,3.25,Off-Campus,Yes,3,8,3,4,3,2,4,3,4,4,5,Social Connections
+933,Female,23,PU,Undergraduate,Computer Science,3rd year,3.25,On-Campus,No,0,6,3,4,3,5,1,5,4,3,5,Religious Activities
+934,Male,26,KUST,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,7,6,5,4,3,5,2,1,4,5,2,Online Entertainment
+935,Male,19,UET,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,6,1,4,5,4,1,5,5,3,4,Sleep
+936,Male,17,PU,Undergraduate,Computer Science,2nd year,2.75,Off-Campus,No,0,6,4,5,3,2,3,1,3,1,4,Sports and Fitness
+937,Male,22,PU,Undergraduate,Data Science,2nd year,3.75,Off-Campus,No,3,6,4,4,1,3,5,1,4,3,2,"Religious Activities, Sports and Fitness, Sleep"
+938,Male,20,PU,Undergraduate,Software Engineering,3rd year,3.25,On-Campus,Yes,3,6,1,5,5,5,4,3,4,4,4,Sports and Fitness
+939,Male,20,PU,Undergraduate,Information Technology,1st year,3.25,On-Campus,No,3,6,5,4,4,5,2,3,3,1,1,Sleep
+940,Male,19,UET,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,0,8,5,4,1,4,3,1,2,2,3,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+941,Female,17,UET,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,6,8,4,4,3,3,1,5,2,5,4,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+942,Female,20,UET,Undergraduate,Computer Science,1st year,2.25,On-Campus,No,0,6,5,2,5,5,1,4,4,3,2,"Religious Activities, Sports and Fitness, Sleep"
+943,Male,20,KUST,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,No,3,6,3,4,4,3,3,1,5,2,5,"Religious Activities, Social Connections"
+944,Female,20,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,0,8,4,5,3,4,1,1,4,4,2,"Religious Activities, Sports and Fitness, Social Connections"
+945,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,0,8,5,5,4,5,3,5,1,3,4,"Religious Activities, Social Connections, Online Entertainment"
+946,Male,19,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,8,5,3,3,5,1,3,3,3,1,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+947,Male,20,UET,Undergraduate,Computer Science,4th year,2.75,On-Campus,No,7,8,4,5,3,3,3,1,2,5,5,"Religious Activities, Sports and Fitness"
+948,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,Yes,0,8,4,5,4,2,3,2,1,1,4,Religious Activities
+949,Male,22,PU,Undergraduate,Data Science,1st year,2.75,On-Campus,No,6,8,5,3,4,3,3,1,3,4,1,Sports and Fitness
+950,Male,23,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,0,6,4,5,5,4,1,3,3,4,1,"Religious Activities, Social Connections, Online Entertainment"
+951,Male,23,PU,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,No,0,6,4,3,3,1,4,3,4,3,3,Online Entertainment
+952,Male,18,PU,Undergraduate,Data Science,4th year,2.25,Off-Campus,No,7,6,4,5,4,5,1,4,5,4,5,Social Connections
+953,Male,23,PU,Undergraduate,Computer Science,4th year,3.75,On-Campus,No,0,6,5,4,5,4,1,4,3,3,3,Sports and Fitness
+954,Male,20,FAST,Undergraduate,Information Technology,3rd year,3.25,Off-Campus,No,0,8,5,4,5,5,3,3,3,1,1,"Religious Activities, Sports and Fitness"
+955,Male,19,FAST,Undergraduate,Computer Science,3rd year,3.75,On-Campus,No,0,8,5,5,3,5,2,4,4,4,2,Outdoor Activities
+956,Male,21,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,Yes,0,4,4,5,4,2,3,3,3,5,3,"Religious Activities, Social Connections, Online Entertainment"
+957,Male,19,UET,Undergraduate,Computer Science,1st year,3.25,On-Campus,Yes,0,6,3,3,3,2,2,4,4,1,1,"Online Entertainment, Sleep"
+958,Male,22,PU,Undergraduate,Data Science,4th year,3.25,Off-Campus,Yes,6,6,4,4,3,3,2,4,3,4,3,"Sports and Fitness, Creative Outlets, Social Connections, Outdoor Activities, Sleep"
+959,Male,22,PU,Undergraduate,Data Science,2nd year,2.25,Off-Campus,Yes,7,6,4,3,1,2,1,5,2,4,2,"Creative Outlets, Social Connections, Online Entertainment, Outdoor Activities"
+960,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,6,3,4,4,1,4,3,3,2,2,Religious Activities
+961,Male,23,PU,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,3,8,5,4,3,5,1,4,4,3,2,"Religious Activities, Social Connections, Online Entertainment"
+962,Male,22,PU,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,6,8,5,4,4,4,4,3,4,2,3,"Religious Activities, Sports and Fitness"
+963,Male,20,PU,Undergraduate,Data Science,3rd year,2.75,Off-Campus,No,7,6,5,3,4,3,1,5,3,5,4,Religious Activities
+964,Male,26,PU,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,7,8,3,4,4,5,1,1,2,4,2,"Religious Activities, Sports and Fitness, Social Connections, Online Entertainment, Outdoor Activities, Sleep"
+965,Female,23,UET,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,0,6,5,5,4,4,1,5,2,1,2,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+966,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,3,6,1,4,4,5,3,1,1,3,1,"Social Connections, Sleep"
+967,Male,20,PU,Undergraduate,Data Science,3rd year,3.25,On-Campus,No,3,8,5,4,4,5,3,4,4,4,2,"Social Connections, Online Entertainment, Sleep"
+968,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,Yes,7,6,3,5,3,5,4,5,5,1,5,"Religious Activities, Social Connections, Online Entertainment"
+969,Male,20,PU,Undergraduate,Data Science,1st year,3.75,On-Campus,Yes,0,6,5,5,5,4,2,3,5,1,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+970,Male,20,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,No,3,6,5,4,4,5,3,5,3,2,5,Online Entertainment
+971,Male,22,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,3,6,3,4,3,5,2,5,4,4,1,Sports and Fitness
+972,Male,20,UET,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,6,5,4,4,5,1,4,3,4,5,"Religious Activities, Social Connections, Online Entertainment, Sleep"
+973,Male,20,PU,Undergraduate,Data Science,1st year,3.25,On-Campus,No,3,8,4,4,3,1,3,3,2,5,4,"Religious Activities, Social Connections"
+974,Male,19,PU,Undergraduate,Software Engineering,4th year,3.25,On-Campus,No,6,6,4,4,5,5,1,5,5,3,4,Religious Activities
+975,Female,20,PU,Undergraduate,Computer Science,3rd year,2.25,Off-Campus,No,3,6,3,4,5,5,1,5,1,1,1,"Religious Activities, Social Connections, Online Entertainment"
+976,Male,19,PU,Undergraduate,Information Technology,1st year,2.75,Off-Campus,No,6,6,5,5,4,5,1,1,2,2,4,Online Entertainment
+977,Male,21,FAST,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,7,6,3,4,5,3,3,5,2,3,3,"Religious Activities, Creative Outlets, Social Connections"
+978,Male,20,PU,Postgraduate,Data Science,2nd year,3.75,Off-Campus,No,0,6,4,5,3,5,4,4,2,3,2,"Religious Activities, Sports and Fitness, Online Entertainment"
+979,Male,20,UET,Undergraduate,Information Technology,3rd year,3.75,Off-Campus,Yes,0,6,4,4,5,5,2,3,5,5,2,Sports and Fitness
+980,Male,20,PU,Undergraduate,Computer Science,1st year,3.25,Off-Campus,No,0,8,4,3,4,2,2,2,5,2,3,Online Entertainment
+981,Male,21,PU,Undergraduate,Computer Science,1st year,3.75,Off-Campus,No,3,8,3,4,5,4,4,4,2,3,5,"Religious Activities, Sports and Fitness, Outdoor Activities"
+982,Male,19,COMSATS,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,4,4,5,3,2,1,3,3,3,4,Outdoor Activities
+983,Male,20,PU,Undergraduate,Data Science,1st year,3.25,Off-Campus,No,3,6,3,3,2,4,5,4,4,1,3,Religious Activities
+984,Male,22,FAST,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,6,4,5,3,5,2,3,3,5,3,"Religious Activities, Sports and Fitness, Online Entertainment"
+985,Male,19,PU,Undergraduate,Computer Science,1st year,2.75,On-Campus,Yes,6,4,4,3,4,3,1,4,4,4,2,"Religious Activities, Sleep"
+986,Male,20,PU,Undergraduate,Computer Science,2nd year,3.75,On-Campus,No,3,6,3,4,4,2,3,4,4,1,5,Online Entertainment
+987,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.75,Off-Campus,Yes,7,6,4,4,5,1,4,3,5,5,3,"Religious Activities, Social Connections, Online Entertainment"
+988,Male,22,PU,Undergraduate,Data Science,2nd year,2.75,On-Campus,No,0,6,4,5,4,1,4,3,2,5,3,Sleep
+989,Male,20,UET,Undergraduate,Data Science,3rd year,3.75,Off-Campus,No,0,6,5,4,4,5,4,4,4,1,2,Sports and Fitness
+990,Male,22,UET,Undergraduate,Computer Science,1st year,3.25,On-Campus,No,3,6,4,5,1,2,3,4,4,4,3,"Religious Activities, Online Entertainment, Outdoor Activities"
+991,Male,20,PU,Undergraduate,Data Science,4th year,3.25,On-Campus,No,3,8,5,5,3,3,4,5,4,4,4,Online Entertainment
+992,Male,20,COMSATS,Undergraduate,Data Science,3rd year,3.25,Off-Campus,No,3,6,4,4,5,5,4,5,4,3,5,"Religious Activities, Social Connections"
+993,Male,21,PU,Undergraduate,Computer Science,3rd year,3.25,Off-Campus,No,0,8,4,2,4,2,3,2,4,2,4,Sports and Fitness
+994,Female,20,KUST,Undergraduate,Computer Science,1st year,2.75,Off-Campus,No,0,6,5,4,5,5,3,2,3,3,1,"Religious Activities, Social Connections, Online Entertainment, Outdoor Activities"
+995,Male,19,UOL,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,0,8,4,4,2,4,3,3,1,3,2,Sleep
+996,Male,26,PU,Undergraduate,Data Science,1st year,3.75,Off-Campus,Yes,3,6,5,5,4,5,3,4,2,5,2,"Religious Activities, Sports and Fitness, Outdoor Activities"
+997,Female,21,COMSATS,Undergraduate,Data Science,3rd year,3.75,On-Campus,No,3,8,4,5,1,3,3,2,5,4,2,"Religious Activities, Sports and Fitness, Creative Outlets, Online Entertainment"
+998,Male,22,PU,Undergraduate,Computer Science,4th year,3.25,Off-Campus,No,0,6,4,3,4,2,4,5,3,4,1,"Religious Activities, Social Connections, Online Entertainment"
+999,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.75,Off-Campus,Yes,3,6,3,2,4,3,5,3,2,4,1,Sleep

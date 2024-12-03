@@ -1,0 +1,3 @@
+degree_level,academic_year,AVG(l.average_sleep)
+Postgraduate,"4th year",7.14285714285714
+Undergraduate,"4th year",6.62385321100917

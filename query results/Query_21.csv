@@ -1,0 +1,5 @@
+degree_major,AVG(l.cgpa)
+"Computer Science",3.06495145631068
+"Data Science",2.97733711048159
+"Information Technology",3.01494252873563
+"Software Engineering",3.00888888888889

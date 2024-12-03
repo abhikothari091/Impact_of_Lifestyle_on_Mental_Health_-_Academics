@@ -1,0 +1,3 @@
+gender,AVG(m.isolation),AVG(m.social_relationships)
+Female,3.29347826086957,2.76630434782609
+Male,3.3296568627451,2.68872549019608

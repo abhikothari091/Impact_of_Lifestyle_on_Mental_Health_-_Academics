@@ -1,0 +1,199 @@
+
+1)
+
+WITH depression_table as 
+(SELECT s.degree_major,AVG(m.depression) as avg_depression FROM Students s INNER JOIN MentalHealth m ON s.student_id=m.student_id GROUP BY s.degree_major) 
+SELECT degree_major,avg_depression 
+FROM depression_table 
+WHERE avg_depression=(SELECT MAX(avg_depression) FROM depression_table);
+
+2)
+
+SELECT l.stress_relief_activities,AVG(m.depression) as avg_depression 
+FROM MentalHealth m 
+INNER JOIN 
+Lifestyle l on m.student_id=l.student_id GROUP BY l.stress_relief_activities ORDER BY avg_depression LIMIT 3;
+
+3)
+
+ SELECT AVG(m.social_relationships) FROM MentalHealth m WHERE m.anxiety>3 and m.depression>3;
+
+ SELECT m.anxiety,m.depression, AVG(m.social_relationships) FROM MentalHealth m GROUP BY m.anxiety,m.depression;
+ 
+4) 
+
+WITH sat_table as (SELECT s.university, AVG(l.study_satisfaction) as avg_sat FROM Students s INNER JOIN Lifestyle l ON s.student_id = l.student_id GROUP BY s.university) 
+ SELECT university, avg_sat FROM sat_table WHERE avg_sat=(SELECT MAX(avg_sat) FROM sat_table);
+ 
+5) GOOD RESULTS
+
+ SELECT l.average_sleep, AVG(l.cgpa),AVG(m.depression),AVG(m.anxiety) 
+ FROM Lifestyle l INNER JOIN MentalHealth m ON l.student_id = m.student_id 
+ GROUP BY 
+ l.average_sleep;
+ 
+6) 
+
+ SELECT average_sleep, AVG(academic_workload), AVG(academic_pressure) FROM Lifestyle GROUP BY average_sleep;
+ 
+7) 
+
+ SELECT s.academic_year, AVG(m.future_insecurity) AS avg_future_insecurity
+ FROM Students s
+ INNER JOIN MentalHealth m ON s.student_id = m.student_id
+ WHERE s.academic_year = '1st year' OR s.academic_year = '4th year'
+ GROUP BY s.academic_year;
+
+ 
+8) 
+
+
+SELECT m.campus_discrimination, AVG(anxiety), AVG(depression), AVG(cgpa) 
+FROM MentalHealth m INNER JOIN Lifestyle l 
+ON m.student_id=l.student_id 
+GROUP BY campus_discrimination;
+
+9) 
+
+SELECT financial_concerns, AVG(anxiety), AVG(depression), AVG(average_sleep) FROM MentalHealth m INNER JOIN Lifestyle l ON m.student_id=l.student_id GROUP BY financial_concerns;
+ 
+10)
+
+SELECT sports_engagement, AVG(anxiety), AVG(depression), AVG(average_sleep) FROM MentalHealth m INNER JOIN Lifestyle l ON m.student_id=l.student_id GROUP BY sports_engagement;
+
+11) 
+
+WITH MaxGPA AS (
+    -- Step 1: Find the highest GPA for each major
+    SELECT 
+        s.degree_major, 
+        MAX(l.cgpa) AS max_gpa
+    FROM 
+        Students s
+    INNER JOIN 
+        Lifestyle l
+    GROUP BY 
+        s.degree_major
+),
+
+TopStudents AS (
+    -- Step 2: Get details of students with the highest GPA for each major
+    SELECT 
+        s.student_id AS student_id,
+        s.degree_major,
+        l.cgpa,
+        mh.anxiety,
+        mh.depression,
+        mh.isolation
+    FROM 
+        Students s
+    INNER JOIN 
+        MentalHealth mh
+    ON 
+        s.student_id = mh.student_id
+    INNER JOIN
+        Lifestyle l
+    ON
+        s.student_id = l.student_id
+    INNER JOIN 
+        MaxGPA mg
+    ON 
+        s.degree_major = mg.degree_major AND l.cgpa = mg.max_gpa
+),
+
+AverageMentalHealth AS (
+    -- Step 3: Calculate average mental health metrics for each major
+    SELECT 
+        s.degree_major,
+        AVG(mh.anxiety) AS avg_anxiety,
+        AVG(mh.depression) AS avg_depression,
+        AVG(mh.isolation) AS avg_isolation
+    FROM 
+        Students s
+    INNER JOIN 
+        MentalHealth mh
+    ON 
+        s.student_id = mh.student_id
+    GROUP BY 
+        s.degree_major
+),
+
+FinalTable AS (SELECT 
+    ts.degree_major AS major,
+    ts.cgpa AS cgpa,
+    ts.anxiety AS top_student_anxiety,
+    ts.depression AS top_student_depression,
+    ts.isolation AS top_student_isolation,
+    am.avg_anxiety as avg_anxiety,
+    am.avg_depression as avg_depression,
+    am.avg_isolation as avg_isolation
+FROM 
+    TopStudents ts
+INNER JOIN 
+    AverageMentalHealth am
+ON 
+    ts.degree_major = am.degree_major)
+
+SELECT 
+     f.major,
+     AVG(f.cgpa),
+     AVG(f.top_student_anxiety),
+     AVG(f.top_student_depression),
+     AVG(f.top_student_isolation),
+     f.avg_anxiety,
+     f.avg_depression,
+     f.avg_isolation
+     
+FROM
+    FinalTable f
+GROUP BY
+    f.major;
+
+12) 
+
+SELECT s.degree_major, AVG(l.academic_workload), AVG(l.academic_pressure) FROM Students s INNER JOIN Lifestyle l ON s.student_id=l.student_id GROUP BY s.degree_major;
+
+13) 
+
+SELECT s.academic_year, AVG(m.future_insecurity), AVG(m.financial_concerns) FROM Students s INNER JOIN MentalHeaLTH m ON s.student_id=m.student_id WHERE s.degree_major = 'Data Science' GROUP BY s.academic_year;
+
+14) 
+
+SELECT s.degree_level, s.academic_year, AVG(l.average_sleep) FROM Students s INNER JOIN Lifestyle l ON s.student_id = l.student_id 
+WHERE 
+     s.academic_year = '4th year'
+GROUP BY
+      s.degree_level;
+
+15) 
+
+SELECT s.gender, AVG(m.isolation), AVG(m.social_relationships) FROM Students s INNER JOIN MentalHealth m ON s.student_id = m.student_id 
+GROUP BY
+       s.gender;
+    
+16) 
+
+SELECT s.residential_status, AVG(m.anxiety), AVG(m.depression), AVG(m.social_relationships), AVG(m.future_insecurity), AVG(m.isolation), AVG(m.financial_concerns) FROM Students s INNER JOIN MentalHealth m ON s.student_id = m.student_id GROUP BY s.residential_status;  
+
+17) 
+
+SELECT s.gender, s.degree_level, COUNT(s.gender) FROM Students s GROUP BY s.degree_level, s.gender;
+
+18)
+
+SELECT s.gender, AVG(m.anxiety), AVG(m.depression), AVG(m.social_relationships), AVG(m.future_insecurity), AVG(m.isolation), AVG(m.financial_concerns) FROM Students s INNER JOIN MentalHealth m ON s.student_id = m.student_id GROUP BY s.gender;  
+
+19)
+
+SELECT s.degree_major, AVG(sports_engagement) FROM Students s INNER JOIN MentalHealth m ON s.student_id = m.student_id GROUP BY s.degree_major;
+
+20) 
+
+SELECT s.degree_major, AVG(l.study_satisfaction) FROM Students s INNER JOIN Lifestyle l ON s.student_id = l.student_id GROUP BY s.degree_major;
+
+21)
+
+SELECT s.degree_major, AVG(l.cgpa) FROM Students s INNER JOIN Lifestyle l ON s.student_id = l.student_id GROUP BY s.degree_major;
+
+
+

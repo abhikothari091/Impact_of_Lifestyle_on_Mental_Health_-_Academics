@@ -1,0 +1,5 @@
+degree_major,AVG(l.academic_workload),AVG(l.academic_pressure)
+"Computer Science",3.80582524271845,3.68543689320388
+"Data Science",3.86118980169972,3.79603399433428
+"Information Technology",3.44827586206897,3.20689655172414
+"Software Engineering",3.46666666666667,3.06666666666667

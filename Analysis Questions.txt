@@ -1,7 +1,7 @@
 1.	Which student majors report the highest levels of depression?
 2.	Which stress-relief activities are associated with the lowest levels of depression among students?
 3.	What is the nature of social relationships for students experiencing anxiety and depression?
-4.	Which university has the highest average student satisfaction levels?
+4.	Which university has the highest average student study satisfaction levels?
 5.	What is the impact of sleep on students' academic performance and mental well-being?
 6.	How do academic workload and pressure influence students' sleep patterns?
 7.	How do future insecurities of final-year students compare to those of first-year students?
@@ -13,3 +13,9 @@
 13.	Assess the average levels of future insecurity and financial concerns among final-year data science major
 14.	Compare sleep quality between final-year undergraduate and graduate students, examining potential differences or similarities.
 15.	Analyse isolation levels and social relationship quality across gender to identify any significant trends or disparities.
+16.	Does residential status have an impact on the mental well-being of students?
+17.	How does the gender distribution in undergraduate courses compare to postgraduate courses?
+18.	How does mental health vary across different genders?
+19.	How is sports engagement across departments?
+20.	How is the Study satisfaction distributed across departments?
+21.	Calculate the average CGPA across departments

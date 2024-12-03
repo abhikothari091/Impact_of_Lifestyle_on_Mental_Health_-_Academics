@@ -1,0 +1,35 @@
+CREATE TABLE Students(
+student_id INTEGER PRIMARY KEY,
+university TEXT NOT NULL,
+age INTEGER NOT NULL,
+gender TEXT NOT NULL,
+academic_year TEXT NOT NULL,
+degree_major TEXT NOT NULL,
+degree_level TEXT NOT NULL,
+residential_status TEXT NOT NULL);
+
+CREATE TABLE MentalHealth(
+student_id INTEGER NOT NULL,
+anxiety INTEGER NOT NULL,
+depression INTEGER NOT NULL,
+financial_concerns INTEGER NOT NULL,
+social_relationships INTEGER NOT NULL,
+isolation INTEGER NOT NULL,
+future_insecurity INTEGER NOT NULL,
+campus_discrimination TEXT NOT NULL,
+sports_engagement INTEGER NOT NULL,
+FOREIGN KEY (student_id) REFERENCES Students(student_id));
+
+CREATE TABLE Lifestyle(
+student_id INTEGER NOT NULL,
+average_sleep INTEGER NOT NULL,
+cgpa REAL NOT NULL,
+stress_relief_activities TEXT NOT NULL,
+study_satisfaction INTEGER NOT NULL,
+academic_workload INTEGER NOT NULL,
+academic_pressure INTEGER NOT NULL,
+FOREIGN KEY (student_id) REFERENCES Students(student_id));
+
+'C:\Users\vigne\Desktop\Higher studies\Northeastern University Boston\Courses\Semester 1\IDMP\Project\StudentsTable.csv'
+'C:\Users\vigne\Desktop\Higher studies\Northeastern University Boston\Courses\Semester 1\IDMP\Project\MentalHealth.csv'
+'C:\Users\vigne\Desktop\Higher studies\Northeastern University Boston\Courses\Semester 1\IDMP\Project\Lifestyle.csv'

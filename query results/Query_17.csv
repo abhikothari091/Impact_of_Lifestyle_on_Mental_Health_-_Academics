@@ -1,0 +1,5 @@
+gender,degree_level,COUNT(s.gender)
+Female,Postgraduate,5
+Male,Postgraduate,24
+Female,Undergraduate,179
+Male,Undergraduate,792
