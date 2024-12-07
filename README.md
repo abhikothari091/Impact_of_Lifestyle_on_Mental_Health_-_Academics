@@ -1,7 +1,7 @@
 # Project Title
 
-## ** Impact of Lifestyle and Mental Health on Academics **
-***
+## Impact of Lifestyle and Mental Health on Academics
+
 
 # Project Description
 
@@ -27,7 +27,7 @@ The orginal dataset used in this project was taken from kaggle and can be found 
 # Data Preprocessing
 
 To enable a more robust analysis, we expanded the dataset to 1,000 rows using
-advanced synthetic data generation techniques. The code for the synthetic data generation can be found in [Synthetic Data Generator](/Synthetic%20Data%20Generator.ipynb) file.The cleaned dataset can be found in [Data](/Data/)
+advanced synthetic data generation techniques. The code for the synthetic data generation can be found in [Synthetic Data Generator](/Synthetic%20Data%20Generator.ipynb) file.The cleaned dataset can be found in [Data](/Data/).
 
 # Results 
 
